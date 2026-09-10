@@ -1,0 +1,29 @@
+[
+  {
+    "id": "gc-1",
+    "code": "SPEC-GIFT-8821",
+    "from": "Priya",
+    "balance": 50.0,
+    "original": 50.0,
+    "expiresAt": "2027-03-31",
+    "status": "Active"
+  },
+  {
+    "id": "gc-2",
+    "code": "SPEC-GIFT-4409",
+    "from": "Specscart",
+    "balance": 12.0,
+    "original": 25.0,
+    "expiresAt": "2026-12-15",
+    "status": "Active"
+  },
+  {
+    "id": "gc-3",
+    "code": "SPEC-GIFT-1102",
+    "from": "Amit",
+    "balance": 0,
+    "original": 40.0,
+    "expiresAt": "2026-01-20",
+    "status": "Used"
+  }
+]

@@ -1,0 +1,3998 @@
+{
+  "products": [
+    {
+      "id": "189b0a9f-39a8-4575-af9a-bd5293738495",
+      "name": "KNOWLE",
+      "url_key": "knowle",
+      "sku_base": "LS131F",
+      "active_sku": "LS131F/2",
+      "variants": [
+        {
+          "id": "1feb369e-ff4d-4a7e-a72e-b0377211dcca",
+          "name": "KNOWLE 4",
+          "sku": "LS131F/4",
+          "origin_sku": "LS131F/4",
+          "url_key": "knowle-black-and-red-sunglasses",
+          "slug": "sunglasses/knowle-black-and-red-sunglasses",
+          "color": "Black",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 23,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/knowle/knowle-4/file_qggtse.png",
+              "label": "KNOWLE 4",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/knowle/knowle-4/file_muzsf8.webp",
+              "label": "black and red sunglasses-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/knowle/knowle-4/file_p67hna.webp",
+              "label": "black and red sunglasses-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/glasses.glb",
+              "label": "KNOWLE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Black & Red",
+              "filter_color": [
+                "Black",
+                "Red",
+                "Dual-Tone"
+              ]
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 48,
+              "bridge": 23
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "f41dcdc6-a682-48b6-98ab-a37ffc986397",
+      "name": "WEMBLEY",
+      "url_key": "wembley",
+      "sku_base": "VSG001F",
+      "active_sku": "VSG001F/2",
+      "variants": [
+        {
+          "id": "5e575f19-d39a-4d36-8b64-a0c1389b0eec",
+          "name": "WEMBLEY 1",
+          "sku": "VSG001F/1",
+          "origin_sku": "VSG001F/1",
+          "url_key": "wembley-oval-black-frame-with-dark-grey-tint-sunglasses",
+          "slug": "sunglasses/wembley-oval-black-frame-with-dark-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 37,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F1/swatch_image/VSG001F_1-1.webp",
+              "label": "Oval Black Frame With Dark Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F1/p_img/VSG001F_1-3.webp",
+              "label": "Oval Black Frame With Dark Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F1/p_img/VSG001F_1-1.webp",
+              "label": "Oval Black Frame With Dark Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "c0229753-7ff9-4265-bff9-94291cc9a87b",
+          "name": "WEMBLEY 10",
+          "sku": "VSG001F/10",
+          "origin_sku": "VSG001F/10",
+          "url_key": "wembley-crystal-grey-frame-with-dark-brown-tint-sunglasses",
+          "slug": "sunglasses/wembley-crystal-grey-frame-with-dark-brown-tint-sunglasses",
+          "color": "Crystal Grey",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F10/p_img/VSG001F_10-1.webp",
+              "label": "Crystal Grey Frame With Dark Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F10/swatch_image/VSG001F_10-1.webp",
+              "label": "Crystal Grey Frame With Dark Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F10/p_img/VSG001F_10-3.webp",
+              "label": "Crystal Grey Frame With Dark Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey",
+              "filter_color": "Crystal, Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "9b2ac707-308d-4f5b-9789-a04ca1c35412",
+          "name": "WEMBLEY 2",
+          "sku": "VSG001F/2",
+          "origin_sku": "VSG001F/2",
+          "url_key": "wembley-tortoise-frame-with-dark-brown-tint-sunglasses",
+          "slug": "sunglasses/wembley-tortoise-frame-with-dark-brown-tint-sunglasses",
+          "color": "Tortoise",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 27,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F2/swatch_image/VSG001F_2-1.webp",
+              "label": "Tortoise Frame With Dark Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F2/p_img/VSG001F_2-3.webp",
+              "label": "Tortoise Frame With Dark Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F2/p_img/VSG001F_2-1.webp",
+              "label": "Tortoise Frame With Dark Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": null
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "ee28a353-f87b-4753-91ad-1ab42aee91e8",
+          "name": "WEMBLEY 3",
+          "sku": "VSG001F/3",
+          "origin_sku": "VSG001F/3",
+          "url_key": "wembley-crystal-clear-oval-frame-with-blue-tint-sunglasses",
+          "slug": "sunglasses/wembley-crystal-clear-oval-frame-with-blue-tint-sunglasses",
+          "color": "Crystal Clear",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 30,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F3/swatch_image/VSG001F_3-1.webp",
+              "label": "Crystal Clear Oval Frame With Blue Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F3/p_img/VSG001F_3-3.webp",
+              "label": "Crystal Clear Oval Frame With Blue Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F3/p_img/VSG001F_3-1.webp",
+              "label": "Crystal Clear Oval Frame With Blue Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Clear",
+              "filter_color": "Crystal, Clear"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "bf658327-9c13-4cfb-8cab-7736d27d443c",
+          "name": "WEMBLEY 5",
+          "sku": "VSG001F/5",
+          "origin_sku": "VSG001F/5",
+          "url_key": "wembley-crystal-blue-oval-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/wembley-crystal-blue-oval-frame-with-grey-tint-sunglasses",
+          "color": "Crystal Blue",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F5/swatch_image/VSG001F_5-1.webp",
+              "label": "Crystal Blue Oval Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F5/p_img/VSG001F_5-3.webp",
+              "label": "Crystal Blue Oval Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F5/p_img/VSG001F_5-1.webp",
+              "label": "Crystal Blue Oval Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Blue",
+              "filter_color": "Crystal, Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "ab2ea16d-072e-4a64-b4ab-62b32927707e",
+          "name": "WEMBLEY 6",
+          "sku": "VSG001F/6",
+          "origin_sku": "VSG001F/6",
+          "url_key": "wembley-large-crystal-peach-retro-oval-sunglasses",
+          "slug": "sunglasses/wembley-large-crystal-peach-retro-oval-sunglasses",
+          "color": "Crystal Peach",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F6/swatch_image/VSG001F_6-1.webp",
+              "label": "Large Crystal Peach Retro Oval Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F6/p_img/VSG001F_6-3.webp",
+              "label": "Large Crystal Peach Retro Oval Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F6/p_img/VSG001F_6-1.webp",
+              "label": "Large Crystal Peach Retro Oval Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Peach",
+              "filter_color": "Crystal, Peach"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "276b5dbd-b23f-40a3-a2eb-9098f45c5c58",
+          "name": "WEMBLEY 8",
+          "sku": "VSG001F/8",
+          "origin_sku": "VSG001F/8",
+          "url_key": "wembley-crystal-teal-frame-with-green-tint-sunglasses",
+          "slug": "sunglasses/wembley-crystal-teal-frame-with-green-tint-sunglasses",
+          "color": "Crystal Teal",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F8/swatch_image/VSG001F_8-1.webp",
+              "label": "Crystal Teal Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F8/p_img/VSG001F_8-3.webp",
+              "label": "Crystal Teal Frame With Green Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F8/p_img/VSG001F_8-1.webp",
+              "label": "Crystal Teal Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Teal",
+              "filter_color": "Crystal, Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "a92b9bd9-a911-4e47-8fe4-55f5d31f8884",
+          "name": "WEMBLEY 9",
+          "sku": "VSG001F/9",
+          "origin_sku": "VSG001F/9",
+          "url_key": "wembley-crystal-pink-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/wembley-crystal-pink-frame-with-brown-tint-sunglasses",
+          "color": "Crystal Pink",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F9/swatch_image/VSG001F_9-1.webp",
+              "label": "Crystal Pink Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F9/p_img/VSG001F_9-3.webp",
+              "label": "Crystal Pink Frame With Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG001F/VSG001F9/p_img/VSG001F_9-1.webp",
+              "label": "Crystal Pink Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/zoya.glb",
+              "label": "WEMBLEY",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Pink",
+              "filter_color": "Pink"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "1a32b986-a86f-4f31-ad16-23b4bbec7a7d",
+      "name": "PECKHAM",
+      "url_key": "peckham",
+      "sku_base": "VSG1405F",
+      "active_sku": "VSG1405F/1",
+      "variants": [
+        {
+          "id": "e8fe1a86-e6ae-4597-aa1d-04edba115c43",
+          "name": "PECKHAM 1",
+          "sku": "VSG1405F/1",
+          "origin_sku": "VSG1405F/1",
+          "url_key": "peckham-geometric-gunmetal-lightweight-sunglasses",
+          "slug": "sunglasses/peckham-geometric-gunmetal-lightweight-sunglasses",
+          "color": "Gunmetal",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 11,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG1405F/VSG1405F1/p_img/VSG1405F_1-1.webp",
+              "label": "Geometric Gunmetal Lightweight Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG1405F/VSG1405F1/p_img/VSG1405F_1-3.webp",
+              "label": "Geometric Gunmetal Lightweight Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1783592320457-8l9kiqxb225.webp",
+              "label": "Geometric Gunmetal Lightweight Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/bronte.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gunmetal",
+              "filter_color": "Gunmetal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 140,
+              "lens": 55,
+              "bridge": 18,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "03357a8b-e9da-405f-af6f-9eb28e934a0b",
+          "name": "PECKHAM 3",
+          "sku": "VSG1405F/3",
+          "origin_sku": "VSG1405F/3",
+          "url_key": "peckham-geometric-gold-frame-with-green-tint-sunglasses",
+          "slug": "sunglasses/peckham-geometric-gold-frame-with-green-tint-sunglasses",
+          "color": "Gold",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 27,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG1405F/VSG1405F3/p_img/VSG1405F_3-3.webp",
+              "label": "Geometric Gold Frame With Green Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1783592330466-klihyfkyl9f.webp",
+              "label": "Geometric Gold Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG1405F/VSG1405F3/p_img/VSG1405F_3-1.webp",
+              "label": "Geometric Gold Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/bronte.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 140,
+              "lens": 55,
+              "bridge": 18,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "8b3a0c39-93b4-4ef0-8866-fe6abe9b9efa",
+          "name": "PECKHAM 4",
+          "sku": "VSG1405F/4",
+          "origin_sku": "VSG1405F/4",
+          "url_key": "peckham-geometric-silver-frame-with-pink-tint-sunglasses",
+          "slug": "sunglasses/peckham-geometric-silver-frame-with-pink-tint-sunglasses",
+          "color": "Silver",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 16,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG1405F/VSG1405F4/p_img/VSG1405F_4-1.webp",
+              "label": "Geometric Silver Frame With Pink Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1783592336289-sb096w2e6k.webp",
+              "label": "Geometric Silver Frame With Pink Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG1405F/VSG1405F4/p_img/VSG1405F_4-3.webp",
+              "label": "Geometric Silver Frame With Pink Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/bronte.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 140,
+              "lens": 55,
+              "bridge": 18,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "4c7df9c0-1beb-4bb2-99f2-19ce47e7b5df",
+      "name": "WICKHAM",
+      "url_key": "wickham",
+      "sku_base": "VSG2804F",
+      "active_sku": "VSG2804F/2",
+      "variants": [
+        {
+          "id": "2a1fd78f-833e-49de-9b4a-4bdcc88dd380",
+          "name": "WICKHAM 1",
+          "sku": "VSG2804F/1",
+          "origin_sku": "VSG2804F/1",
+          "url_key": "wickham-black-acetate-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/denham-black-acetate-frame-with-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1779430670543-z7xdf0slchs.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1779430662879-8sls7cqpgyw.webp",
+              "label": "Black Acetate Frame With Grey Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1779430662037-mb71o6r9v.webp",
+              "label": "Black Acetate Frame With Grey Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/vela.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "308836ad-b404-4729-905c-2a4603d42514",
+          "name": "WICKHAM 2",
+          "sku": "VSG2804F/2",
+          "origin_sku": "VSG2804F/2",
+          "url_key": "wickham-oversized-tortoise-fullrim-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/wickham-oversized-tortoise-fullrim-frame-with-brown-tint-sunglasses",
+          "color": "Tortoise",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047220289-rq6tees0si.webp",
+              "label": "Oversized Tortoise Fullrim Frame With Brown Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047221547-gnyuc8iz39p.webp",
+              "label": "Oversized Tortoise Fullrim Frame With Brown Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047223488-uakojhhopse.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/vela.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "ae7f1de0-08ea-4640-961c-71a4e10ffe85",
+          "name": "WICKHAM 3",
+          "sku": "VSG2804F/3",
+          "origin_sku": "VSG2804F/3",
+          "url_key": "wickham-crystal-grey-frame-with-grey-tint-square-sunglasses",
+          "slug": "sunglasses/wickham-crystal-grey-frame-with-grey-tint-square-sunglasses",
+          "color": "Crystal Grey",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047292575-ud6yauopx3d.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047287162-b094s7me90v.webp",
+              "label": "Crystal Grey Frame With Grey Tint Square Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047286682-fyxx5838yl.webp",
+              "label": "Crystal Grey Frame With Grey Tint Square Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/vela.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey",
+              "filter_color": "Crystal,Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "7eb3af8b-6c19-4763-bbab-38c269c26a38",
+          "name": "WICKHAM 4",
+          "sku": "VSG2804F/4",
+          "origin_sku": "VSG2804F/4",
+          "url_key": "wickham-black-green-frame-with-green-tint-square-sunglasses",
+          "slug": "sunglasses/wickham-black-green-frame-with-green-tint-square-sunglasses",
+          "color": "Black & Green",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047341605-ueeg3a2pzwe.webp",
+              "label": "Black & Green Frame With Green Tint Square Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047347871-dtztix3k0o.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778047342115-ifwf5hlj9bl.webp",
+              "label": "Black & Green Frame With Green Tint Square Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/vela.glb",
+              "label": "PECKHAM",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black & Green",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "30430592-3fdb-4a69-bddb-efb108ea32ba",
+      "name": "ELMSTEAD",
+      "url_key": "elmstead",
+      "sku_base": "VSG9280F",
+      "active_sku": "VSG9280F/3",
+      "variants": [
+        {
+          "id": "80660c06-a759-4a86-80e7-f6a6dde8fb01",
+          "name": "ELMSTEAD 1",
+          "sku": "VSG9280F/1",
+          "origin_sku": "VSG9280F/1",
+          "url_key": "elmstead-matte-gold-geometric-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/elmstead-matte-gold-geometric-frame-with-brown-tint-sunglasses",
+          "color": "Matte Gold",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 16,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F1/swatch_image/VSG9280F_1-1.webp",
+              "label": "Matte Gold Geometric Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F1/p_img/VSG9280F_1-1.webp",
+              "label": "Matte Gold Geometric Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F1/p_img/VSG9280F_1-3.webp",
+              "label": "Matte Gold Geometric Frame With Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 60,
+              "bridge": 16,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d62915f1-9841-4cf4-bff2-afcd6ae5262b",
+          "name": "ELMSTEAD 2",
+          "sku": "VSG9280F/2",
+          "origin_sku": "VSG9280F/2",
+          "url_key": "elmstead-platinum-silver-geometric-frame-with-green-tint-sunglasses",
+          "slug": "sunglasses/elmstead-platinum-silver-geometric-frame-with-green-tint-sunglasses",
+          "color": "Platinum Silver",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F2/p_img/VSG9280F_2-3.webp",
+              "label": "Platinum Silver Geometric Frame With Green Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F2/p_img/VSG9280F_2-1.webp",
+              "label": "Platinum Silver Geometric Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F2/swatch_image/VSG9280F_2-1.webp",
+              "label": "Platinum Silver Geometric Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Platinum Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 60,
+              "bridge": 16,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "757bdbf3-f070-498a-a2ad-7720f8f02f92",
+          "name": "ELMSTEAD 3",
+          "sku": "VSG9280F/3",
+          "origin_sku": "VSG9280F/3",
+          "url_key": "elmstead-polished-gunmetal-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/elmstead-polished-gunmetal-frame-with-grey-tint-sunglasses",
+          "color": "Polished Gunmetal",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F3/p_img/VSG9280F_3-1.webp",
+              "label": "Polished Gunmetal Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F3/p_img/VSG9280F_3-3.webp",
+              "label": "Polished Gunmetal Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F3/swatch_image/VSG9280F_3-1.webp",
+              "label": "Polished Gunmetal Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Polished Gunmetal",
+              "filter_color": "Gunmetal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 60,
+              "bridge": 16,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "f521199f-a20b-4f5a-beb1-ed7dbba37038",
+          "name": "ELMSTEAD 4",
+          "sku": "VSG9280F/4",
+          "origin_sku": "VSG9280F/4",
+          "url_key": "elmstead-matte-black-oval-sunglasses-with-nose-pad",
+          "slug": "sunglasses/elmstead-matte-black-oval-sunglasses-with-nose-pad",
+          "color": "Matte Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F4/swatch_image/VSG9280F_4-1.webp",
+              "label": "Matte Black Oval Sunglasses With Nose Pad-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F4/p_img/VSG9280F_4-3.webp",
+              "label": "Matte Black Oval Sunglasses With Nose Pad-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9280F/VSG9280F4/p_img/VSG9280F_4-1.webp",
+              "label": "Matte Black Oval Sunglasses With Nose Pad-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 60,
+              "bridge": 16,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "141ccf17-eb39-482b-9afd-48fd9abdcbf1",
+      "name": "CHARLIE EA-S",
+      "url_key": "charlieea",
+      "sku_base": "SA96045F",
+      "active_sku": "SA96045F/4",
+      "variants": [
+        {
+          "id": "903d11ee-9f95-4a43-8212-6feaf69b94f6",
+          "name": "CHARLIE EA2",
+          "sku": "SA96045F/2",
+          "origin_sku": "A96045F/2",
+          "url_key": "charlieea-round-black-sunglass-frames",
+          "slug": "sunglasses/charlieea-round-black-sunglass-frames",
+          "color": "Black",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 10,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/charlie-ea-s/charlie-ea2-s/file_m8mbzq.webp",
+              "label": "Round Black Sunglass Frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/charlie-ea-s/charlie-ea2-s/file_relhks.webp",
+              "label": "Round Black Sunglass Frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/charlie-ea-s/charlie-ea2-s/file_psoyxb.png",
+              "label": "CHARLIE EA2-S",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Black & Brown",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 20
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "23cdf4dd-9441-4252-8da9-1649353fcfa2",
+          "name": "CHARLIE EA4",
+          "sku": "SA96045F/4",
+          "origin_sku": "A96045F/4",
+          "url_key": "charlieea-round-tinted-glasses",
+          "slug": "sunglasses/charlieea-round-tinted-glasses",
+          "color": "Blue",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 39,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/charlie-ea-s/charlie-ea4-s/file_kecojn.png",
+              "label": "CHARLIE EA4-S",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/charlie-ea-s/charlie-ea4-s/file_vjkzkf.webp",
+              "label": "bright-indigo-blue-designer-grey-tinted-sunglasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/charlie-ea-s/charlie-ea4-s/file_v49kis.webp",
+              "label": "bright-indigo-blue-designer-grey-tinted-sunglasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Navy Blue & Grey",
+              "filter_color": "Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 20
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "510d8b50-5cb6-4862-a0f1-46304cfdc96d",
+      "name": "PENGE",
+      "url_key": "penge",
+      "sku_base": "VSG8001F",
+      "active_sku": "VSG8001F/2",
+      "variants": [
+        {
+          "id": "0ea162a2-2975-4d53-b70a-bde32537b616",
+          "name": "PENGE 1",
+          "sku": "VSG8001F/1",
+          "origin_sku": "VSG8001F/1",
+          "url_key": "penge-black-oversized-cat-eye-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/penge-black-oversized-cat-eye-frame-with-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 17,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741190183-onmh61xvaa7.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741185515-y06rni420mk.webp",
+              "label": "Black Oversized Cat-Eye Frame With Grey Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741185062-4lde52v18lu.webp",
+              "label": "Black Oversized Cat-Eye Frame With Grey Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 52,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "675f5d93-0a47-4fe1-995d-bff4ac059810",
+          "name": "PENGE 2",
+          "sku": "VSG8001F/2",
+          "origin_sku": "VSG8001F/2",
+          "url_key": "penge-caramel-marble-cat-eye-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/penge-caramel-marble-cat-eye-frame-with-brown-tint-sunglasses",
+          "color": "Caramel Marble",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741254323-jraas6l3lyi.webp",
+              "label": "Caramel Marble Cat-Eye Frame With Brown Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741258162-7fqnlv1ooc.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741253901-9fzja4p003.webp",
+              "label": "Caramel Marble Cat-Eye Frame With Brown Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Caramel Marble",
+              "filter_color": "Marble,Brown,Multicolour"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 52,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "9a2b4a2b-f98f-4f9c-933b-da8674f4e8ac",
+          "name": "PENGE 3",
+          "sku": "VSG8001F/3",
+          "origin_sku": "VSG8001F/3",
+          "url_key": "penge-pearl-white-marble-cat-eye-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/penge-pearl-white-marble-cat-eye-frame-with-brown-tint-sunglasses",
+          "color": "Pearl White Marble",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741911302-0bvbi4uumdrk.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741907955-1oai807rzjz.webp",
+              "label": "Pearl White Marble Cat-eye Frame With Brown Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741906441-aj8un3ycjps.webp",
+              "label": "Pearl White Marble Cat-eye Frame With Brown Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Pearl White Marble",
+              "filter_color": "White,Marble,Multicolour"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 52,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "64222b6e-d227-43f7-ad6c-7a3d71f9c229",
+          "name": "PENGE 5",
+          "sku": "VSG8001F/5",
+          "origin_sku": "VSG8001F/5",
+          "url_key": "penge-blue-marble-cat-eye-frame-with-blue-tint-sunglasses",
+          "slug": "sunglasses/penge-blue-marble-cat-eye-frame-with-blue-tint-sunglasses",
+          "color": "Blue Marble",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741957542-2te1usa2w58.webp",
+              "label": "Blue Marble Cat-eye Frame With Blue Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741961607-uyoy1mko6kl.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778741956994-c4ziabtelra.webp",
+              "label": "Blue Marble Cat-eye Frame With Blue Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Blue Marble",
+              "filter_color": "Blue,Marble,Multicolour"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 52,
+              "bridge": 22,
+              "isHometrial": null
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d6621339-d0ee-45a9-b538-abe6ccf52914",
+          "name": "PENGE 6",
+          "sku": "VSG8001F/6",
+          "origin_sku": "VSG8001F/6",
+          "url_key": "penge-pink-marble-cat-eye-frame-with-pink-tint-sunglasses",
+          "slug": "sunglasses/penge-pink-marble-cat-eye-frame-with-pink-tint-sunglasses",
+          "color": "Pink Marble",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778742007418-xp77ec1siwa.webp",
+              "label": "Pink Marble Cat-eye Frame With Pink Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778742007840-4xwj25gr5he.webp",
+              "label": "Pink Marble Cat-eye Frame With Pink Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778742012443-t6hrgzfqoej.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Pink Marble",
+              "filter_color": "Pink,Marble"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 52,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "6a5f59f7-2ee8-43fb-92b9-e1c9d6fb0ece",
+      "name": "ORPINGTON",
+      "url_key": "orpington",
+      "sku_base": "VSG2827F",
+      "active_sku": "VSG2827F/4",
+      "variants": [
+        {
+          "id": "67b8c5f2-7d08-4383-9302-3432c551a9fc",
+          "name": "ORPINGTON 1",
+          "sku": "VSG2827F/1",
+          "origin_sku": "VSG2827F/1",
+          "url_key": "orpington-black-thick-square-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/orpington-black-thick-square-frame-with-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 11,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F1/p_img/VSG2827F_1-3.webp",
+              "label": "Black Thick Square Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F1/p_img/VSG2827F_1-1.webp",
+              "label": "Black Thick Square Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F1/swatch_image/VSG2827F_1-1.webp",
+              "label": "Black Thick Square Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "dfee4032-ef5f-4caa-a591-60e43ade92f5",
+          "name": "ORPINGTON 2",
+          "sku": "VSG2827F/2",
+          "origin_sku": "VSG2827F/2",
+          "url_key": "orpington-tortoise-acetate-sunglasses-with-brown-gradient-lenses",
+          "slug": "sunglasses/orpington-tortoise-acetate-sunglasses-with-brown-gradient-lenses",
+          "color": "Dark Tortoise",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F2/p_img/VSG2827F_2-1.webp",
+              "label": "Tortoise Acetate Sunglasses With Brown Gradient Lenses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F2/p_img/VSG2827F_2-3.webp",
+              "label": "Tortoise Acetate Sunglasses With Brown Gradient Lenses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F2/swatch_image/VSG2827F_2-1.webp",
+              "label": "Tortoise Acetate Sunglasses With Brown Gradient Lenses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "7bc92d1f-8dc7-45a0-bba5-b22f41fdba8f",
+          "name": "ORPINGTON 3",
+          "sku": "VSG2827F/3",
+          "origin_sku": "VSG2827F/3",
+          "url_key": "orpington-khaki-green-full-rim-square-sunglasses-with-grey-tint",
+          "slug": "sunglasses/orpington-khaki-green-full-rim-square-sunglasses-with-grey-tint",
+          "color": "Khaki Green",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F3/swatch_image/VSG2827F_3-1.webp",
+              "label": "Khaki Green Full-Rim Square Sunglasses With Grey Tint-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F3/p_img/VSG2827F_3-1.webp",
+              "label": "Khaki Green Full-Rim Square Sunglasses With Grey Tint-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F3/p_img/VSG2827F_3-3.webp",
+              "label": "Khaki Green Full-Rim Square Sunglasses With Grey Tint-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Khaki Green",
+              "filter_color": "Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d1c193bc-f352-4f53-b61b-28b96353b4d3",
+          "name": "ORPINGTON 4",
+          "sku": "VSG2827F/4",
+          "origin_sku": "VSG2827F/4",
+          "url_key": "orpington-navy-blue-thick-acetate-frame-with-green-sunglasses",
+          "slug": "sunglasses/orpington-navy-blue-thick-acetate-frame-with-green-sunglasses",
+          "color": "Navy Blue",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F4/p_img/VSG2827F_4-3.webp",
+              "label": "Navy Blue Thick Acetate Frame With Green Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F4/swatch_image/VSG2827F_4-1.webp",
+              "label": "Navy Blue Thick Acetate Frame With Green Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG2827F/VSG2827F4/p_img/VSG2827F_4-1.webp",
+              "label": "Navy Blue Thick Acetate Frame With Green Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Navy Blue",
+              "filter_color": "Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "6ed9e4a1-693d-4d6c-8e30-0579b714448e",
+      "name": "BUSK-S",
+      "url_key": "busks",
+      "sku_base": "SA97018F",
+      "active_sku": "SA97018F/3-1",
+      "variants": [
+        {
+          "id": "84ebd2ee-cca4-485f-ab6a-c2cf946fcf33",
+          "name": "BUSK 3",
+          "sku": "SA97018F/3-1",
+          "origin_sku": "A97018F/3",
+          "url_key": "busks-blue-rectangular-sunglasses",
+          "slug": "sunglasses/busks-blue-rectangular-sunglasses",
+          "color": "Brown",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 60,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-s/busk-3-s1/file_u1fcka.webp",
+              "label": "Blue Rectangular Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-s/busk-3-s1/file_r3tuf5.png",
+              "label": "BUSK 3-S1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-s/busk-3-s1/file_l2nadf.webp",
+              "label": "Blue Rectangular Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "4aedcd15-02dd-4e2e-963c-91656c9fdb36",
+          "name": "BUSK 6",
+          "sku": "SA97018F/6",
+          "origin_sku": "A97018F/6",
+          "url_key": "busks-transparent-frame-sunglasses",
+          "slug": "sunglasses/busks-transparent-frame-sunglasses",
+          "color": "Crystal",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 641,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-s/busk-6-s/file_guygf1.webp",
+              "label": "clear frame sunglasses for men & women-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-s/busk-6-s/file_ybc9bq.webp",
+              "label": "clear frame sunglasses for men & women-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-s/busk-6-s/file_pt3k3k.jpg",
+              "label": "BUSK 6-S",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey",
+              "filter_color": "Crystal,Clear"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "3df49119-f734-4550-a969-ab5381c6dff1",
+          "name": "BUSK 8",
+          "sku": "SA97018F/8",
+          "origin_sku": "A97018F/8",
+          "url_key": "busks-busk-8-s1",
+          "slug": "sunglasses/busks-busk-8-s1",
+          "color": "Tortoise",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 200,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-8-s1/file_kwhlif.webp",
+              "label": "Black Rectangular Yellow Tint Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-8-s1/file_whrm7b.webp",
+              "label": "Black Rectangular Yellow Tint Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-8-s1/file_skmo1o.png",
+              "label": "BUSK 8-S1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "9a1d0991-aea6-4624-9361-05d64cecc5bc",
+      "name": "HAREFIELD",
+      "url_key": "harefield",
+      "sku_base": "LSG883323F",
+      "active_sku": "LSG883323F/2",
+      "variants": [
+        {
+          "id": "88a3e008-fae8-4817-9fab-53da673e3aa7",
+          "name": "HAREFIELD 1",
+          "sku": "LSG883323F/1",
+          "origin_sku": "LSG883323F/1",
+          "url_key": "harefield-black-frame-with-dark-grey-gradient-tint-sunglasses",
+          "slug": "sunglasses/harefield-black-frame-with-dark-grey-gradient-tint-sunglasses",
+          "color": "Black",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F1/swatch_image/LSG883323F_1-1.webp",
+              "label": "Black Frame With Dark Grey Gradient Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F1/p_img/LSG883323F_1-3.webp",
+              "label": "Black Frame With Dark Grey Gradient Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F1/p_img/LSG883323F_1-1.webp",
+              "label": "Black Frame With Dark Grey Gradient Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 50,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "48834b9a-7f60-4f37-9f0d-28467e6bc805",
+          "name": "HAREFIELD 2",
+          "sku": "LSG883323F/2",
+          "origin_sku": "LSG883323F/2",
+          "url_key": "harefield-dark-tortoise-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/harefield-dark-tortoise-frame-with-brown-tint-sunglasses",
+          "color": "Dark Tortoise",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 11,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F2/p_img/LSG883323F_2-1.webp",
+              "label": "Dark Tortoise Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F2/p_img/LSG883323F_2-3.webp",
+              "label": "Dark Tortoise Frame With Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F2/swatch_image/LSG883323F_2-1.webp",
+              "label": "Dark Tortoise Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 50,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "f7e53b10-a653-4a8a-bcf9-f0bea3230690",
+          "name": "HAREFIELD 4",
+          "sku": "LSG883323F/4",
+          "origin_sku": "LSG883323F/4",
+          "url_key": "harefield-thick-crystal-blue-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/harefield-thick-crystal-blue-frame-with-grey-tint-sunglasses",
+          "color": "Crystal Blue",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F4/swatch_image/LSG883323F_4-1.webp",
+              "label": "Thick Crystal Blue Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F4/p_img/LSG883323F_4-3.webp",
+              "label": "Thick Crystal Blue Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F4/p_img/LSG883323F_4-1.webp",
+              "label": "Thick Crystal Blue Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Blue",
+              "filter_color": "Crystal,Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 50,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "6fb8079e-ca4d-4cb0-a967-668f263fa9c6",
+          "name": "HAREFIELD 5",
+          "sku": "LSG883323F/5",
+          "origin_sku": "LSG883323F/5",
+          "url_key": "harefield-crystal-jalapeno-square-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/harefield-crystal-jalapeno-square-frame-with-grey-tint-sunglasses",
+          "color": "Crystal Jalapeno",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F5/swatch_image/LSG883323F_5-1.webp",
+              "label": "Crystal Jalapeno Square Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F5/p_img/LSG883323F_5-3.webp",
+              "label": "Crystal Jalapeno Square Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/LSG883323F/LSG883323F5/p_img/LSG883323F_5-1.webp",
+              "label": "Crystal Jalapeno Square Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Jalapeno",
+              "filter_color": "Crystal,Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 50,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "217cb9ef-e16c-43d3-a93b-788a35d3272b",
+      "name": "OSIDGE",
+      "url_key": "osidge",
+      "sku_base": "FSG6085F",
+      "active_sku": "FSG6085F/3",
+      "variants": [
+        {
+          "id": "b2ffe671-4ebe-4e9f-be51-5f038d68d5b8",
+          "name": "OSIDGE 1",
+          "sku": "FSG6085F/1",
+          "origin_sku": "FSG6085F/1",
+          "url_key": "osidge-square-black-frame-with-dark-grey-tint-sunglassses",
+          "slug": "sunglasses/osidge-square-black-frame-with-dark-grey-tint-sunglassses",
+          "color": "Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 13,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F1/p_img/FSG6085F_1-3.webp",
+              "label": "Square Black Frame With Dark Grey Tint Sunglassses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F1/swatch_image/FSG6085F_1-1.webp",
+              "label": "Square Black Frame With Dark Grey Tint Sunglassses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F1/p_img/FSG6085F_1-1.webp",
+              "label": "Square Black Frame With Dark Grey Tint Sunglassses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "6b34544c-4ec1-4539-a192-fd14e095b1fa",
+          "name": "OSIDGE 2",
+          "sku": "FSG6085F/2",
+          "origin_sku": "FSG6085F/2",
+          "url_key": "osidge-crystal-clear-frame-with-blue-tint-sunglasses",
+          "slug": "sunglasses/osidge-crystal-clear-frame-with-blue-tint-sunglasses",
+          "color": "Crystal Clear",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F2/p_img/FSG6085F_2-3.webp",
+              "label": "Crystal Clear Frame With Blue Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F2/p_img/FSG6085F_2-1.webp",
+              "label": "Crystal Clear Frame With Blue Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F2/swatch_image/FSG6085F_2-1.webp",
+              "label": "Crystal Clear Frame With Blue Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Clear",
+              "filter_color": "Crystal,Clear"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "ea268bbd-fb04-44ae-b1da-eedeb9712d17",
+          "name": "OSIDGE 3",
+          "sku": "FSG6085F/3",
+          "origin_sku": "FSG6085F/3",
+          "url_key": "osidge-crystal-teal-square-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/osidge-crystal-teal-square-frame-with-grey-tint-sunglasses",
+          "color": "Crystal Teal",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 16,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F3/swatch_image/FSG6085F_3-1.webp",
+              "label": "Crystal Teal Square Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F3/p_img/FSG6085F_3-1.webp",
+              "label": "Crystal Teal Square Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F3/p_img/FSG6085F_3-3.webp",
+              "label": "Crystal Teal Square Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Teal",
+              "filter_color": "Crystal,Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "1a89d088-2f02-411c-b11e-30c7323fd55b",
+          "name": "OSIDGE 6",
+          "sku": "FSG6085F/6",
+          "origin_sku": "FSG6085F/6",
+          "url_key": "osidge-golden-wren-abstract-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/osidge-golden-wren-abstract-frame-with-brown-tint-sunglasses",
+          "color": "Golden Wren Abstract",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 10,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F6/swatch_image/FSG6085F_6-1.webp",
+              "label": "Golden Wren Abstract Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F6/p_img/FSG6085F_6-3.webp",
+              "label": "Golden Wren Abstract Frame With Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/FSG6085F/FSG6085F6/p_img/FSG6085F_6-1.webp",
+              "label": "Golden Wren Abstract Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Golden Wren Abstract",
+              "filter_color": "Brown,Marble,Multicolour"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "0e357ef1-604b-4b17-87f1-915e45df0f25",
+      "name": "WHITTON",
+      "url_key": "whitton",
+      "sku_base": "VSG002F",
+      "active_sku": "VSG002F/3",
+      "variants": [
+        {
+          "id": "76d89c78-6900-4592-a5b5-3469f01923ea",
+          "name": "WHITTON 1",
+          "sku": "VSG002F/1",
+          "origin_sku": "VSG002F/1",
+          "url_key": "whitton-black-rectangular-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/whitton-black-rectangular-frame-with-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 37,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F1/p_img/VSG002F_1-1.webp",
+              "label": "Black Rectangular Frame With Grey Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F1/p_img/VSG002F_1-3.webp",
+              "label": "Black Rectangular Frame With Grey Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/76d89c78-6900-4592-a5b5-3469f01923ea/swatch_image/1783066959988-31r0c7ef3n9.webp",
+              "label": "Black Rectangular Frame With Grey Tint Sunglasses",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 52,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "52aaeda0-c58b-41ef-8729-e2083ae3a380",
+          "name": "WHITTON 2",
+          "sku": "VSG002F/2",
+          "origin_sku": "VSG002F/2",
+          "url_key": "whitton-dark-tortoise-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/whitton-dark-tortoise-frame-with-brown-tint-sunglasses",
+          "color": "Dark Tortoise",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 28,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F2/p_img/VSG002F_2-1.webp",
+              "label": "Dark Tortoise Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F2/p_img/VSG002F_2-3.webp",
+              "label": "Dark Tortoise Frame With Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/52aaeda0-c58b-41ef-8729-e2083ae3a380/swatch_image/1783066980485-pdnt8ogdqqm.webp",
+              "label": "Dark Tortoise Frame With Brown Tint Sunglasses",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 52,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "2a22ea3d-cae7-4d9c-90e3-951f9bc4dc04",
+          "name": "WHITTON 3",
+          "sku": "VSG002F/3",
+          "origin_sku": "VSG002F/3",
+          "url_key": "whitton-crystal-denim-blue-rectangular-funky-sunglasses",
+          "slug": "sunglasses/whitton-crystal-denim-blue-rectangular-funky-sunglasses",
+          "color": "Crystal Denim Blue",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/2a22ea3d-cae7-4d9c-90e3-951f9bc4dc04/swatch_image/1783067010384-pd8tj6wou6f.webp",
+              "label": "Crystal Denim Blue Rectangular Funky Sunglasses",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F3/p_img/VSG002F_3-1.webp",
+              "label": "Crystal Denim Blue Rectangular Funky Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F3/p_img/VSG002F_3-3.webp",
+              "label": "Crystal Denim Blue Rectangular Funky Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Denim Blue",
+              "filter_color": "Crystal, Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 52,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "844a7f8f-2155-43f6-99be-8c2bec7b7d32",
+          "name": "WHITTON 5",
+          "sku": "VSG002F/5",
+          "origin_sku": "VSG002F/5",
+          "url_key": "whitton-crystal-green-rectangular-funky-sunglasses",
+          "slug": "sunglasses/whitton-crystal-green-rectangular-funky-sunglasses",
+          "color": "Crystal Green",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F5/p_img/VSG002F_5-1.webp",
+              "label": "Crystal Green Rectangular Funky Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG002F/VSG002F5/p_img/VSG002F_5-3.webp",
+              "label": "Crystal Green Rectangular Funky Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/844a7f8f-2155-43f6-99be-8c2bec7b7d32/swatch_image/1783067042068-y71bfisgdmj.webp",
+              "label": "Crystal Green Rectangular Funky Sunglasses",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Green",
+              "filter_color": "Crystal, Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 52,
+              "bridge": 15,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "9d3f1f54-a773-42b0-bf53-2aa53791221f",
+      "name": "OAKHILL",
+      "url_key": "oakhill",
+      "sku_base": "VSG4506F",
+      "active_sku": "VSG4506F/4",
+      "variants": [
+        {
+          "id": "64580a3c-9a1f-48e3-a360-9a25aee3819a",
+          "name": "OAKHILL 1",
+          "sku": "VSG4506F/1",
+          "origin_sku": "VSG4506F/1",
+          "url_key": "oakhill-vintage-gold-metal-frame-with-light-grey-tint-sunglasses",
+          "slug": "sunglasses/oakhill-vintage-gold-metal-frame-with-light-grey-tint-sunglasses",
+          "color": "Vintage Gold",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 17,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780470811687-crs3rz315n.webp",
+              "label": "Vintage Gold Metal Frame With Light Grey Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471094525-jdj2sho3y4.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780470812124-0wjb5kz4m96l.webp",
+              "label": "Vintage Gold Metal Frame With Light Grey Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Vintage Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 51,
+              "bridge": 19,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "7ddad3a5-d61b-4f21-8a48-4aff666c9c59",
+          "name": "OAKHILL 2",
+          "sku": "VSG4506F/2",
+          "origin_sku": "VSG4506F/2",
+          "url_key": "oakhill-funky-gold-double-bridge-frame-with-yellow-tint-sunglasses",
+          "slug": "sunglasses/oakhill-funky-gold-double-bridge-frame-with-yellow-tint-sunglasses",
+          "color": "Gold",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471226837-cka7jk33gp.webp",
+              "label": "Funky Gold Double Bridge Frame With Yellow Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471232423-hqwaiu3xpe6.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471225747-fy180zqemp.webp",
+              "label": "Funky Gold Double Bridge Frame With Yellow Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 51,
+              "bridge": 19,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "2b0ac76f-c028-463e-9f64-61e538fce5e3",
+          "name": "OAKHILL 3",
+          "sku": "VSG4506F/3",
+          "origin_sku": "VSG4506F/3",
+          "url_key": "oakhill-vintage-gunmetal-frame-with-blue-tint-sunglasses",
+          "slug": "sunglasses/oakhill-vintage-gunmetal-frame-with-blue-tint-sunglasses",
+          "color": "Gunmetal",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471109642-zvd0lqeydum.webp",
+              "label": "Vintage Gunmetal Frame With Blue Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471112854-r3thraf71oe.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471108314-1yworiytajy.webp",
+              "label": "Vintage Gunmetal Frame With Blue Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gunmetal",
+              "filter_color": "Gunmetal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 51,
+              "bridge": 19,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "9e891366-a6f2-493c-b551-106c0bd1539f",
+          "name": "OAKHILL 4",
+          "sku": "VSG4506F/4",
+          "origin_sku": "VSG4506F/4",
+          "url_key": "oakhill-silver-double-bridge-frame-with-green-tint-sunglasses",
+          "slug": "sunglasses/oakhill-silver-double-bridge-frame-with-green-tint-sunglasses",
+          "color": "Silver",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 17,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471168380-395cxjxbu1.webp",
+              "label": "Silver Double Bridge Frame With Green Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471169275-8l76kto57pp.webp",
+              "label": "Silver Double Bridge Frame With Green Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1780471171890-4975vr3q7on.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 51,
+              "bridge": 19,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "d302d2a5-c011-45d9-98e8-24fbdb609fe5",
+      "name": "TEDDINGTON",
+      "url_key": "teddington",
+      "sku_base": "VSG25097F",
+      "active_sku": "VSG25097F/3",
+      "variants": [
+        {
+          "id": "ea15c5a3-91ed-48a6-910c-bbd0712771f1",
+          "name": "TEDDINGTON 1",
+          "sku": "VSG25097F/1",
+          "origin_sku": "VSG25097F/1",
+          "url_key": "teddington-black-rectangular-acetate-sunglasses-with-green-lenses",
+          "slug": "sunglasses/teddington-black-rectangular-acetate-sunglasses-with-green-lenses",
+          "color": "Black",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F1/swatch_image/VSG25097F_1-1.webp",
+              "label": "Black Rectangular Acetate Sunglasses With Green Lenses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F1/p_img/VSG25097F_1-3.webp",
+              "label": "Black Rectangular Acetate Sunglasses With Green Lenses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F1/p_img/VSG25097F_1-1.webp",
+              "label": "Black Rectangular Acetate Sunglasses With Green Lenses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 51,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "64fe3ada-80c0-41be-bfe4-95b0defac45d",
+          "name": "TEDDINGTON 2",
+          "sku": "VSG25097F/2",
+          "origin_sku": "VSG25097F/2",
+          "url_key": "teddington-dark-maroon-thick-frame-sunglasses-with-green-tint",
+          "slug": "sunglasses/teddington-dark-maroon-thick-frame-sunglasses-with-green-tint",
+          "color": "Dark Maroon",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F2/swatch_image/VSG25097F_2-1.webp",
+              "label": "Dark Maroon Thick Frame Sunglasses With Green Tint-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F2/p_img/VSG25097F_2-3.webp",
+              "label": "Dark Maroon Thick Frame Sunglasses With Green Tint-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F2/p_img/VSG25097F_2-1.webp",
+              "label": "Dark Maroon Thick Frame Sunglasses With Green Tint-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Maroon",
+              "filter_color": "Red"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 51,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "be5b6571-b116-4e41-8007-54425c64fc45",
+          "name": "TEDDINGTON 3",
+          "sku": "VSG25097F/3",
+          "origin_sku": "VSG25097F/3",
+          "url_key": "teddington-green-full-rim-rectangular-sunglasses-with-brown-lenses",
+          "slug": "sunglasses/teddington-green-full-rim-rectangular-sunglasses-with-brown-lenses",
+          "color": "Crystal Green",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1781610796342-skwfp05qlvd.webp",
+              "label": "Green Full-Rim Rectangular Sunglasses With Brown Lenses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F3/p_img/VSG25097F_3-3.webp",
+              "label": "Green Full-Rim Rectangular Sunglasses With Brown Lenses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F3/swatch_image/VSG25097F_3-1.webp",
+              "label": "Green Full-Rim Rectangular Sunglasses With Brown Lenses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Green",
+              "filter_color": "Crystal,Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 51,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d91b33c0-977b-41e9-81dc-b80a30eb057e",
+          "name": "TEDDINGTON 4",
+          "sku": "VSG25097F/4",
+          "origin_sku": "VSG25097F/4",
+          "url_key": "teddington-crystal-grey-thick-acetate-sunglasses-with-orange-tint",
+          "slug": "sunglasses/teddington-crystal-grey-thick-acetate-sunglasses-with-orange-tint",
+          "color": "Crystal Grey",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F4/swatch_image/VSG25097F_4-1.webp",
+              "label": "Crystal Grey Thick Acetate Sunglasses With Orange Tint-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1781610819460-qd46p51uob.webp",
+              "label": "Crystal Grey Thick Acetate Sunglasses With Orange Tint-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG25097F/VSG25097F4/p_img/VSG25097F_4-3.webp",
+              "label": "Crystal Grey Thick Acetate Sunglasses With Orange Tint-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey",
+              "filter_color": "Crystal,Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 150,
+              "lens": 51,
+              "bridge": 22,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "c0845c98-592a-4a54-a8a5-2c8543a1a732",
+      "name": "CRANFORD",
+      "url_key": "cranford",
+      "sku_base": "VSG9238F",
+      "active_sku": "VSG9238F/2",
+      "variants": [
+        {
+          "id": "cad6886d-100a-4893-9bed-325a8c03a93d",
+          "name": "CRANFORD 1",
+          "sku": "VSG9238F/1",
+          "origin_sku": "VSG9238F/1",
+          "url_key": "cranford-vintage-gold-rectangular-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/cranford-vintage-gold-rectangular-frame-with-brown-tint-sunglasses",
+          "color": "Vintage Gold",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F1/swatch_image/VSG9238F_1-1.webp",
+              "label": "Vintage Gold Rectangular Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F1/p_img/VSG9238F_1-3.webp",
+              "label": "Vintage Gold Rectangular Frame With Brown Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F1/p_img/VSG9238F_1-1.webp",
+              "label": "Vintage Gold Rectangular Frame With Brown Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Vintage Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 145,
+              "lens": 50,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "bc0845f8-79cc-497f-9da0-61b6a7d5abaa",
+          "name": "CRANFORD 2",
+          "sku": "VSG9238F/2",
+          "origin_sku": "VSG9238F/2",
+          "url_key": "cranford-gold-rectangular-frame-with-green-tint-sunglasses",
+          "slug": "sunglasses/cranford-gold-rectangular-frame-with-green-tint-sunglasses",
+          "color": "Gold",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F2/swatch_image/VSG9238F_2-1.webp",
+              "label": "Gold Rectangular Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F2/p_img/VSG9238F_2-3.webp",
+              "label": "Gold Rectangular Frame With Green Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F2/p_img/VSG9238F_2-1.webp",
+              "label": "Gold Rectangular Frame With Green Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 145,
+              "lens": 50,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "549f0f11-d2ad-4b17-a9aa-e4c6868fae84",
+          "name": "CRANFORD 3",
+          "sku": "VSG9238F/3",
+          "origin_sku": "VSG9238F/3",
+          "url_key": "cranford-silver-lightweight-frame-with-light-blue-tint-sunglasses",
+          "slug": "sunglasses/cranford-silver-lightweight-frame-with-light-blue-tint-sunglasses",
+          "color": "Silver",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F3/swatch_image/VSG9238F_3-1.webp",
+              "label": "Silver Lightweight Frame With Light Blue Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F3/p_img/VSG9238F_3-3.webp",
+              "label": "Silver Lightweight Frame With Light Blue Tint Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F3/p_img/VSG9238F_3-1.webp",
+              "label": "Silver Lightweight Frame With Light Blue Tint Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 145,
+              "lens": 50,
+              "bridge": 20,
+              "isHometrial": null
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "efa852b2-743d-45b7-8439-2c108a878db8",
+          "name": "CRANFORD 4",
+          "sku": "VSG9238F/4",
+          "origin_sku": "VSG9238F/4",
+          "url_key": "cranford-matte-black-rectangular-sunglasses-with-nose-pad",
+          "slug": "sunglasses/cranford-matte-black-rectangular-sunglasses-with-nose-pad",
+          "color": "Matte Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F4/swatch_image/VSG9238F_4-1.webp",
+              "label": "Matte Black Rectangular Sunglasses With Nose Pad-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F4/p_img/VSG9238F_4-3.webp",
+              "label": "Matte Black Rectangular Sunglasses With Nose Pad-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/VSG9238F/VSG9238F4/p_img/VSG9238F_4-1.webp",
+              "label": "Matte Black Rectangular Sunglasses With Nose Pad-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": true,
+              "arm": 145,
+              "lens": 50,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "d869b505-5fac-49cf-b09d-c966eb184a3a",
+      "name": "FAILSWORTH",
+      "url_key": "failsworth",
+      "sku_base": "ASG473F",
+      "active_sku": "ASG473F/4",
+      "variants": [
+        {
+          "id": "d8c19be9-c53e-42e1-9bca-b989f96bca1d",
+          "name": "FAILSWORTH 4",
+          "sku": "ASG473F/4",
+          "origin_sku": "ASG473F/4",
+          "url_key": "failsworth-bisque-acetate-square-full-rim-glasses",
+          "slug": "sunglasses/failsworth-bisque-acetate-square-full-rim-glasses",
+          "color": "Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/failsworth/failsworth-4/file_ovvzha.png",
+              "label": "FAILSWORTH 4",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/failsworth/failsworth-4/file_blnjoy.webp",
+              "label": "Bisque Acetate Square Full Rim Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/failsworth/failsworth-4/file_kgssem.webp",
+              "label": "Bisque Acetate Square Full Rim Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Bisque",
+              "filter_color": "Brown,Orange"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 19
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "83d2ff86-2d9e-4605-b262-44ef09213951",
+          "name": "FAILSWORTH 6",
+          "sku": "ASG473F/6",
+          "origin_sku": "ASG473F/6",
+          "url_key": "failsworth-crystal-nude-ombre-square-sunglasses",
+          "slug": "sunglasses/failsworth-crystal-nude-ombre-square-sunglasses",
+          "color": "Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 10,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/failsworth/failsworth-6/file_qpfvm7.webp",
+              "label": "Crystal Nude Ombre Square Sunglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/failsworth/failsworth-6/file_d3wo67.webp",
+              "label": "Crystal Nude Ombre Square Sunglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/failsworth/failsworth-6/file_y8ktto.png",
+              "label": "FAILSWORTH 6",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Nude Ombre",
+              "filter_color": "Brown,Crystal,Dual-Tone,Multi-Colour"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 19
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "906b76df-555c-419f-9496-c6c1b843d313",
+      "name": "ANERLEY",
+      "url_key": "anerley",
+      "sku_base": "VSG8013F",
+      "active_sku": "VSG8013F/3",
+      "variants": [
+        {
+          "id": "434557e4-c3b3-4cf5-986b-0a95b55539fd",
+          "name": "ANERLEY 1",
+          "sku": "VSG8013F/1",
+          "origin_sku": "VSG8013F/1",
+          "url_key": "anerley-large-black-cat-eye-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/anerley-large-black-cat-eye-frame-with-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 12,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835826961-5n55msrgrwe.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835824131-krguyc6igt.webp",
+              "label": "Large Black Cat-eye Frame With Grey Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835822370-7mos8dh95i.webp",
+              "label": "Large Black Cat-eye Frame With Grey Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "684049ce-a8e5-4504-bdb4-aaf32a3cd387",
+          "name": "ANERLEY 3",
+          "sku": "VSG8013F/3",
+          "origin_sku": "VSG8013F/3",
+          "url_key": "anerley-unicorn-marble-cat-eye-frame-with-pink-tint-sunglasses",
+          "slug": "sunglasses/anerley-unicorn-marble-cat-eye-frame-with-pink-tint-sunglasses",
+          "color": "Unicorn Marble",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 11,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835889392-sjhx8z7wxy.webp",
+              "label": "Unicorn Marble Cat-eye Frame With Pink Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835910008-rbo153ydpw.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835889944-795j8i4q2r.webp",
+              "label": "Unicorn Marble Cat-eye Frame With Pink Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Unicorn Marble",
+              "filter_color": "Marble,Multicolour,Pink"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": null
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "72c691fe-6e97-4c2e-88e1-cff253e9c47d",
+          "name": "ANERLEY 5",
+          "sku": "VSG8013F/5",
+          "origin_sku": "VSG8013F/5",
+          "url_key": "anerley-grey-terrazzo-cat-eye-frame-with-blue-tint-sunglasses",
+          "slug": "sunglasses/anerley-grey-terrazzo-cat-eye-frame-with-blue-tint-sunglasses",
+          "color": "Grey Terrazzo",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 12,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835964991-xtuaxliy15k.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835961240-rqqpro6w33.webp",
+              "label": "Grey Terrazzo Cat-eye Frame With Blue Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778835960458-umkewidqnf.webp",
+              "label": "Grey Terrazzo Cat-eye Frame With Blue Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Grey Terrazzo",
+              "filter_color": "Grey,Marble,Multicolour"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "f69254b0-166e-41c1-9012-0505db66830a",
+          "name": "ANERLEY 7",
+          "sku": "VSG8013F/7",
+          "origin_sku": "VSG8013F/7",
+          "url_key": "anerley-pearl-white-marble-frame-with-brown-tint-sunglasses",
+          "slug": "sunglasses/anerley-pearl-white-marble-frame-with-brown-tint-sunglasses",
+          "color": "Pearl White Marble",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 16,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778836022118-oqp09zckz2n.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778836016236-olrv2jwrkve.webp",
+              "label": "Pearl White Marble Frame With Brown Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778836016759-b7w6eadcxdi.webp",
+              "label": "Pearl White Marble Frame With Brown Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Pearl White Marble",
+              "filter_color": "White,Marble"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 54,
+              "bridge": 20,
+              "isHometrial": null
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "5782c22b-de79-4cb6-a8b6-f077f301bb9c",
+      "name": "ILFORD",
+      "url_key": "ilford",
+      "sku_base": "VSG1850F",
+      "active_sku": "VSG1850F/3",
+      "variants": [
+        {
+          "id": "7f00e58d-7c85-4514-b0df-fd4465ab2c1d",
+          "name": "ILFORD 1",
+          "sku": "VSG1850F/1",
+          "origin_sku": "VSG1850F/1",
+          "url_key": "ilford-black-vintage-frame-with-grey-tint-sunglasses",
+          "slug": "sunglasses/ilford-black-vintage-frame-with-grey-tint-sunglasses",
+          "color": "Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880067550-naf2r7athsp.webp",
+              "label": "Black Vintage Frame With Grey Tint Sunglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880068012-tvsip5ehk9.webp",
+              "label": "Black Vintage Frame With Grey Tint Sunglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880133469-dyjb38iyavf.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 17,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "4a524978-2d8d-4571-a3dd-543dc8ca12ed",
+          "name": "ILFORD 2",
+          "sku": "VSG1850F/2",
+          "origin_sku": "VSG1850F/2",
+          "url_key": "ilford-tortoise-vintage-frame-with-brown-tint-glasses",
+          "slug": "sunglasses/ilford-tortoise-vintage-frame-with-brown-tint-glasses",
+          "color": "Tortoise",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 14,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880151351-8pypxfiry8.webp",
+              "label": "Tortoise Vintage Frame With Brown Tint Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880151880-f4rywoh5clg.webp",
+              "label": "Tortoise Vintage Frame With Brown Tint Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880156679-f6p6hd7s3e.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 17,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "b4d76007-47ea-4fd2-9c3a-32c927327c1c",
+          "name": "ILFORD 3",
+          "sku": "VSG1850F/3",
+          "origin_sku": "VSG1850F/3",
+          "url_key": "ilford-grey-vintage-square-sunglasses-with-grey-tint",
+          "slug": "sunglasses/ilford-grey-vintage-square-sunglasses-with-grey-tint",
+          "color": "Crystal Grey",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880210121-7pwg4n67hv5.webp",
+              "label": "Grey vintage square Sunglasses With Grey Tint",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880210541-fojdn2zvzmj.webp",
+              "label": "Grey vintage square Sunglasses With Grey Tint",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880216320-aopd6enbr7m.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey",
+              "filter_color": "Crystal,Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 17,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "b7c24f58-ae41-43aa-aa72-d1d3baa6fd3e",
+          "name": "ILFORD 4",
+          "sku": "VSG1850F/4",
+          "origin_sku": "VSG1850F/4",
+          "url_key": "ilford-blue-vintage-pilot-sunglasses-with-blue-tint",
+          "slug": "sunglasses/ilford-blue-vintage-pilot-sunglasses-with-blue-tint",
+          "color": "Blue",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 17,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880259626-3o4w94hgec1.webp",
+              "label": "Blue Vintage Pilot Sunglasses With Blue Tint",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880260060-dfm9ua5s0ng.webp",
+              "label": "Blue Vintage Pilot Sunglasses With Blue Tint",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777880265241-7nfdukwdcfl.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Blue",
+              "filter_color": "Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 17,
+              "isHometrial": false
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    }
+  ]
+}

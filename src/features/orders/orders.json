@@ -1,0 +1,57 @@
+[
+  {
+    "id": "SC-10482",
+    "placedAt": "2026-09-08",
+    "status": "Processing",
+    "total": 89.0,
+    "items": [
+      { "name": "Harper Black", "qty": 1 }
+    ]
+  },
+  {
+    "id": "SC-10451",
+    "placedAt": "2026-08-22",
+    "status": "Shipped",
+    "total": 129.0,
+    "items": [
+      { "name": "Nova Tortoise", "qty": 1 },
+      { "name": "Blue light clip-on", "qty": 1 }
+    ]
+  },
+  {
+    "id": "SC-10390",
+    "placedAt": "2026-07-14",
+    "status": "Delivered",
+    "total": 69.0,
+    "items": [
+      { "name": "Milo Clear", "qty": 1 }
+    ]
+  },
+  {
+    "id": "SC-10288",
+    "placedAt": "2026-05-03",
+    "status": "Delivered",
+    "total": 149.0,
+    "items": [
+      { "name": "Pilot Sunglasses", "qty": 1 }
+    ]
+  },
+  {
+    "id": "SC-10112",
+    "placedAt": "2026-03-19",
+    "status": "Cancelled",
+    "total": 79.0,
+    "items": [
+      { "name": "Cat Eye Crystal", "qty": 1 }
+    ]
+  },
+  {
+    "id": "SC-09840",
+    "placedAt": "2025-12-11",
+    "status": "Delivered",
+    "total": 99.0,
+    "items": [
+      { "name": "Office Siren Round", "qty": 1 }
+    ]
+  }
+]

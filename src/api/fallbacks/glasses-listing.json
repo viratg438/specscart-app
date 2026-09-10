@@ -1,0 +1,4214 @@
+{
+  "products": [
+    {
+      "id": "2c860ec6-0c58-4332-b319-481110c55af7",
+      "name": "FLETCHER",
+      "url_key": "fletcher",
+      "sku_base": "A97008F",
+      "active_sku": "A97008F/6",
+      "variants": [
+        {
+          "id": "2f1d661f-9d58-42aa-84c2-98452668ae6f",
+          "name": "FLETCHER 1",
+          "sku": "A97008F/1",
+          "origin_sku": "A97008F/1",
+          "url_key": "fletcher-black-round-frame-glasses",
+          "slug": "glasses/fletcher-black-round-frame-glasses",
+          "color": "Black",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 268,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-1/1764914808725-97008-f1-1_okl71b.webp",
+              "label": "FLETCHER 1 Black round eyewear, medium full rim fit",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-1/1764914809061-97008-f1-3_xvc3w1.webp",
+              "label": "Prescription Round glasses in Black acetate for unisex (4)",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-1/file_hsjo71.jpg",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "5c88d788-0e91-4d14-8ffd-edec19eff5a3",
+          "name": "FLETCHER 2",
+          "sku": "A97008F/2",
+          "origin_sku": "A97008F/2",
+          "url_key": "fletcher-matte-dark-grey-round-glasses",
+          "slug": "glasses/fletcher-matte-dark-grey-round-glasses",
+          "color": "Grey",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 90,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-2/1764915014277-97008-f2-1_y2nxwh.webp",
+              "label": "FLETCHER 2 Matte Grey round eyewear, medium full rim fit",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-2/1764915015009-97008-f2-3_qn1w7a.webp",
+              "label": "Unisex Matte Grey acetate round frames in medium size – Tom Archer FLETCHER 2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-2/file_mbh5bs.png",
+              "label": "FLETCHER 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Grey",
+              "filter_color": "Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "631660f4-82b9-459c-a065-67b2c09838be",
+          "name": "FLETCHER 3",
+          "sku": "A97008F/3",
+          "origin_sku": "A97008F/3",
+          "url_key": "fletcher-dark-brown-round-full-rim-glasses",
+          "slug": "glasses/fletcher-dark-brown-round-full-rim-glasses",
+          "color": "Brown",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 94,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-3/1764915108775-97008-f3-1_qrdws1.webp",
+              "label": "FLETCHER 3 Brown round eyewear, medium full rim fit",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-3/1764915109160-97008-f3-3_xcmpjy.webp",
+              "label": "Acetate full rim round frames in Brown – FLETCHER 3 by Tom Archer",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-3/file_rb9fbs.jpg",
+              "label": "FLETCHER 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "735494e7-4021-48ad-9aa0-51935fe47b61",
+          "name": "FLETCHER 4",
+          "sku": "A97008F/4",
+          "origin_sku": "A97008F/4",
+          "url_key": "fletcher-round-eyeglasses-online",
+          "slug": "glasses/fletcher-round-eyeglasses-online",
+          "color": "Blue",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 91,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-4/1764915195279-97008-f4-3_wb41om.webp",
+              "label": "FLETCHER 4 medium round eyeglasses with spring hinges, 49-20-140 fit",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-4/1764915194883-97008-f4-1_ip2mr4.webp",
+              "label": "Acetate full rim round frames in Blue – FLETCHER 4 by Tom Archer",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-4/file_lnoilj.jpg",
+              "label": "FLETCHER 4",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Blue",
+              "filter_color": "Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d0fc84a8-a58d-4704-9248-2e4d01b982c6",
+          "name": "FLETCHER 5",
+          "sku": "A97008F/5",
+          "origin_sku": "A97008F/5",
+          "url_key": "fletcher-crystal-grey-round-shape-glasses",
+          "slug": "glasses/fletcher-crystal-grey-round-shape-glasses",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 82,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-5/1764915243006-97008-f5-1_yjzmhs.webp",
+              "label": "Unisex Crystal Space Grey acetate round frames in medium size – Tom Archer FLETCHER 5",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-5/1764915243422-97008-f5-3_fnxleh.webp",
+              "label": "Tom Archer FLETCHER 5 Crystal Space Grey Round glasses for unisex",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-5/file_eqxqlu.png",
+              "label": "FLETCHER 5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Space Grey",
+              "filter_color": "Crystal,Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "a4c57a36-5272-480c-a62e-db4330d8d1df",
+          "name": "FLETCHER 6",
+          "sku": "A97008F/6",
+          "origin_sku": "A97008F/6",
+          "url_key": "fletcher-transparent-round-frame-glasses-for-men",
+          "slug": "glasses/fletcher-transparent-round-frame-glasses-for-men",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 328,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-6/file_dxn5td.jpg",
+              "label": "FLETCHER 6",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-6/1767683635241-1766475788539-a97008f-6-1_lovejy_doj9pu.webp",
+              "label": "Acetate full rim round frames in Crystal Clear – FLETCHER 6 by Tom Archer",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-6/1766475788605-a97008f-6-3_xfkt4g.webp",
+              "label": "FLETCHER 6 medium round eyeglasses with spring hinges, 49-20-140 fit",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Clear",
+              "filter_color": "Crystal,Clear"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "70493486-63e4-4d18-8eb8-ac8ee59795c8",
+          "name": "FLETCHER 7",
+          "sku": "A97008F/7",
+          "origin_sku": "A97008F/7",
+          "url_key": "fletcher-dark-tortoise-round-full-rim-glasses",
+          "slug": "glasses/fletcher-dark-tortoise-round-full-rim-glasses",
+          "color": "Tortoise",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 214,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/70493486-63e4-4d18-8eb8-ac8ee59795c8/p_img/1786002546643-rsqb8kn3q3h.webp",
+              "label": "FLETCHER 7 Dark Tortoise round eyewear, medium full rim fit",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher-7/file_gdelrr.webp",
+              "label": "Dark Tortoise round spectacles with dark tortoise temples and spring hinges – Tom Archer FLETCHER 7",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/fletcher/fletcher-7/1751722253182-Screenshot_2025-07-05_at_14.29.40_so5bj7.png",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/001.glb",
+              "label": "FLETCHER 1",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "d922fb61-126f-400e-9c1d-e3b9a3b234af",
+      "name": "WALTON",
+      "url_key": "walton",
+      "sku_base": "A21015F",
+      "active_sku": "A21015F/1",
+      "variants": [
+        {
+          "id": "119488f4-6cbd-49a8-af84-eb07c83faa1e",
+          "name": "WALTON 1",
+          "sku": "A21015F/1",
+          "origin_sku": "A21015F/1",
+          "url_key": "walton-black-glasses-frame-rectangle-unisex",
+          "slug": "glasses/walton-black-glasses-frame-rectangle-unisex",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": "39.99",
+          "stock_qty": 121,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/walton/walton-1/file_mf6fru.webp",
+              "label": "Black Acetate Rectangle Glasses Frame Unisex-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/walton/walton-1/file_comfxe.webp",
+              "label": "Black Acetate Rectangle Glasses Frame Unisex-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/walton/walton-1/file_to5dku.jpg",
+              "label": "WALTON 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/002.glb",
+              "label": "WALTON",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "1ce9fa33-9ab3-4b63-ab32-798518e543e5",
+          "name": "WALTON 2",
+          "sku": "A21015F/2",
+          "origin_sku": "A21015F/2",
+          "url_key": "walton-dark-tortoise-glasses-rectangular-acetate",
+          "slug": "glasses/walton-dark-tortoise-glasses-rectangular-acetate",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": "39.99",
+          "stock_qty": 38,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/walton/walton-2/file_fnx68u.png",
+              "label": "WALTON 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/walton/walton-2/file_z5w7pn.webp",
+              "label": "Dark Tortoise Rectangular Glasses Acetate Unisex-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/walton/walton-2/file_og7pto.webp",
+              "label": "Dark Tortoise Rectangular Glasses Acetate Unisex-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/002.glb",
+              "label": "WALTON",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black Tortoise",
+              "filter_color": "Black,Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 53,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "e6762d26-e734-450a-a7a9-5d7db2332974",
+      "name": "PIMHOLE",
+      "url_key": "pimhole",
+      "sku_base": "A26062F",
+      "active_sku": "A26062F/5",
+      "variants": [
+        {
+          "id": "ded287c8-9c67-4a81-9fa7-d0dd1db3db2d",
+          "name": "PIMHOLE 2",
+          "sku": "A26062F/2",
+          "origin_sku": "A26062F/2",
+          "url_key": "pimhole-platinum-silver-full-rim-round-glasses",
+          "slug": "glasses/pimhole-platinum-silver-full-rim-round-glasses",
+          "color": "Silver",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 7,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-2/file_bjvxgz.webp",
+              "label": "Platinum Silver Full-rim Round Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-2/file_mlvot8.webp",
+              "label": "Platinum Silver Full-rim Round Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-2/file_xnp4to.png",
+              "label": "PIMHOLE 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/003.glb",
+              "label": "PIMHOLE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Platinum Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 48,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "b6e58600-b702-41fa-87ea-83316973f5a2",
+          "name": "PIMHOLE 3",
+          "sku": "A26062F/3",
+          "origin_sku": "A26062F/3",
+          "url_key": "pimhole-champagne-gold-black-metal-glasses",
+          "slug": "glasses/pimhole-champagne-gold-black-metal-glasses",
+          "color": "Gold",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 28,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-3/file_dwuc0m.webp",
+              "label": "Champagne Gold & Black Metal Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-3/file_q7ncsf.png",
+              "label": "PIMHOLE 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-3/file_tza8nn.webp",
+              "label": "Champagne Gold & Black Metal Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/003.glb",
+              "label": "PIMHOLE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Champagne Gold & Black",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 48,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "4e0090fe-50e6-4b4d-8912-7bb8edfd0b48",
+          "name": "PIMHOLE 4",
+          "sku": "A26062F/4",
+          "origin_sku": "A26062F/4",
+          "url_key": "pimhole-gunmetal-silver-round-full-rim-eyeglasses",
+          "slug": "glasses/pimhole-gunmetal-silver-round-full-rim-eyeglasses",
+          "color": "Gunmetal",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 21,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-4/file_jtg9jt.webp",
+              "label": "Gunmetal & Silver Round Full-rim Eyeglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-4/file_sj0gzq.webp",
+              "label": "Gunmetal & Silver Round Full-rim Eyeglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-4/1753447981695-26062-f4-1_vblwre.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/003.glb",
+              "label": "PIMHOLE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gunmetal & Silver",
+              "filter_color": "Gunmetal,Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 48,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "595ef1d0-fbef-497f-b741-3a47537213b2",
+          "name": "PIMHOLE 5",
+          "sku": "A26062F/5",
+          "origin_sku": "A26062F/5",
+          "url_key": "pimhole-gold-full-rim-round-metal-glasses",
+          "slug": "glasses/pimhole-gold-full-rim-round-metal-glasses",
+          "color": "Gold",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-5/file_karq5l.webp",
+              "label": "Gold Full-rim Round Metal Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-5/file_xaxzbf.webp",
+              "label": "Gold Full-rim Round Metal Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-5/1753448003744-26062-f5-1_njafnm.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/003.glb",
+              "label": "PIMHOLE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 48,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "945a2337-3bb9-488a-928e-c62d119ab2eb",
+          "name": "PIMHOLE 6",
+          "sku": "A26062F/6",
+          "origin_sku": "A26062F/6",
+          "url_key": "pimhole-silver-full-rim-metal-round-eyeglasses",
+          "slug": "glasses/pimhole-silver-full-rim-metal-round-eyeglasses",
+          "color": "Silver",
+          "price": "79.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-6/file_xbj6n6.webp",
+              "label": "Silver Full-rim Metal Round Eyeglasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-6/file_glywzz.webp",
+              "label": "Silver Full-rim Metal Round Eyeglasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-6/file_sjp4sh.jpg",
+              "label": "PIMHOLE 6",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/003.glb",
+              "label": "PIMHOLE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 48,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "cbc6b5bc-ce29-46be-b285-f3622811129c",
+      "name": "WOODHOUSE",
+      "url_key": "woodhouse",
+      "sku_base": "TW251205F",
+      "active_sku": "TW251205F/90",
+      "variants": [
+        {
+          "id": "a97f6031-4a24-4f43-9b68-97ef767005a5",
+          "name": "WOODHOUSE 62",
+          "sku": "TW251205F/62",
+          "origin_sku": "TW251205F/62",
+          "url_key": "woodhouse-brown-round-full-rim-wooden-glasses",
+          "slug": "glasses/woodhouse-brown-round-full-rim-wooden-glasses",
+          "color": "Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 49,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-62/file_beyioj.png",
+              "label": "WOODHOUSE 62",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-62/file_uqbkfi.webp",
+              "label": "Brown Round Full Rim Wooden Glasses-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-62/file_ggow9h.webp",
+              "label": "Brown Round Full Rim Wooden Glasses-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/004.glb",
+              "label": "WOODHOUSE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Wood",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Wooden Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": true,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 43,
+              "bridge": 22,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "8ac68d21-8a79-4915-8485-34b146045f90",
+          "name": "WOODHOUSE 82",
+          "sku": "TW251205F/82",
+          "origin_sku": "TW251205F/82",
+          "url_key": "woodhouse-black-round-full-rim-wooden-glasses",
+          "slug": "glasses/woodhouse-black-round-full-rim-wooden-glasses",
+          "color": "Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 19,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-82/file_wpc4fp.webp",
+              "label": "Black-Round-Full-Rim-Wooden-Glasses-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-82/file_khbmz1.webp",
+              "label": "Black-Round-Full-Rim-Wooden-Glasses-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-82/file_dxhkth.png",
+              "label": "WOODHOUSE 82",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/004.glb",
+              "label": "WOODHOUSE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Wood",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Wooden Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": true,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 43,
+              "bridge": 22,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "81dc90d5-0064-4ded-85a8-2be4366d7cc3",
+          "name": "WOODHOUSE 90",
+          "sku": "TW251205F/90",
+          "origin_sku": "TW251205F/90",
+          "url_key": "woodhouse-elm-brown-round-full-rim-wooden-glasses",
+          "slug": "glasses/woodhouse-elm-brown-round-full-rim-wooden-glasses",
+          "color": "Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 28,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-90/file_ufyenx.png",
+              "label": "WOODHOUSE 90",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-90/file_yh1yef.webp",
+              "label": "Elm Brown Round Full Rim Wooden Glasses-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-90/file_nonj45.webp",
+              "label": "Elm Brown Round Full Rim Wooden Glasses-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/004.glb",
+              "label": "WOODHOUSE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Wood",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Wooden Black & Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": true,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 43,
+              "bridge": 22,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "a9069f3c-387c-4444-a80f-9ea4724a6b1c",
+          "name": "WOODHOUSE 99",
+          "sku": "TW251205F/99",
+          "origin_sku": "TW251205F/99",
+          "url_key": "woodhouse-tortoise-round-full-rim-wooden-glasses",
+          "slug": "glasses/woodhouse-tortoise-round-full-rim-wooden-glasses",
+          "color": "Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 17,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-99/file_kvtl7r.webp",
+              "label": "Tortoise Round Full Rim Wooden Glasses -2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-99/file_fietfk.webp",
+              "label": "Tortoise Round Full Rim Wooden Glasses -2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/woodhouse/woodhouse-99/file_nw3khk.png",
+              "label": "WOODHOUSE 99",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/004.glb",
+              "label": "WOODHOUSE",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Wood",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Wooden Tortoise",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": true,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 43,
+              "bridge": 22,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "bb7713ac-61db-4348-abe6-749e038d2c73",
+      "name": "BUSK",
+      "url_key": "busk",
+      "sku_base": "A97018F",
+      "active_sku": "A97018F/7",
+      "variants": [
+        {
+          "id": "9cc74591-b870-4118-b8a8-db1c418c0a72",
+          "name": "BUSK 1",
+          "sku": "A97018F/1",
+          "origin_sku": "A97018F/1",
+          "url_key": "busk-black-rectangular-eyeglasses-frames",
+          "slug": "glasses/busk-black-rectangular-eyeglasses-frames",
+          "color": "Black",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 342,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-1/1751377986958-a97018f-1-3_n6zpfb.jpg",
+              "label": "Prescription Rectangle glasses in Black acetate for unisex (4)",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-1/file_gzb44p.jpg",
+              "label": "Tom Archer BUSK 1 Black Rectangle glasses for unisex",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-1/file_aukfhh.jpg",
+              "label": "BUSK 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-1/file_hvrwte.jpg",
+              "label": "BUSK 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/005.glb",
+              "label": "BUSK",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "a3faad45-d48c-412b-b184-908a127a9dc3",
+          "name": "BUSK 3",
+          "sku": "A97018F/3",
+          "origin_sku": "A97018F/3",
+          "url_key": "busk-brown-eyeglasses-frame",
+          "slug": "glasses/busk-brown-eyeglasses-frame",
+          "color": "Brown",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 60,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_apbugu.jpg",
+              "label": "BUSK 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_lkqoqu.jpg",
+              "label": "BUSK 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_idxynj.webp",
+              "label": "Unisex Dark Brown acetate rectangle frames in medium size – Tom Archer BUSK 3",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_ht5ep5.webp",
+              "label": "BUSK 3 medium rectangle eyeglasses with spring hinges, 53-18-142 fit",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/005.glb",
+              "label": "BUSK",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "c15bea02-532e-4af4-98c4-dcc859a41f7f",
+          "name": "BUSK 6",
+          "sku": "A97018F/6",
+          "origin_sku": "A97018F/6",
+          "url_key": "busk-transparent-rectangular-frame-glasses-for-men",
+          "slug": "glasses/busk-transparent-rectangular-frame-glasses-for-men",
+          "color": "Crystal",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 641,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_naifdc.jpg",
+              "label": "BUSK 6",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_s1tv23.webp",
+              "label": "Tom Archer BUSK 6 Crystal Clear Rectangle glasses for unisex",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_au0apu.webp",
+              "label": "Acetate full rim rectangle frames in Crystal Clear – BUSK 6 by Tom Archer",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_yjf5ue.jpg",
+              "label": "BUSK 6",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/005.glb",
+              "label": "BUSK",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Clear",
+              "filter_color": "Crystal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "2f28e9c2-44d2-41f4-8b8a-2b18e9a6b22d",
+          "name": "BUSK 7",
+          "sku": "A97018F/7",
+          "origin_sku": "A97018F/7",
+          "url_key": "busk-designer-black-and-teal-rectangular-glasses",
+          "slug": "glasses/busk-designer-black-and-teal-rectangular-glasses",
+          "color": "Black",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 484,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-7/1764915627089-97018-f7-1_xhnai5.webp",
+              "label": "Unisex Black & Teal acetate rectangle frames in medium size – Tom Archer BUSK 7",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-7/1764915627145-97018-f7-3_jxawzs.webp",
+              "label": "Prescription Rectangle glasses in Black & Teal acetate for unisex (3)",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-7/file_fslxjb.png",
+              "label": "BUSK 7",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-7/file_mhdkwx.png",
+              "label": "BUSK 7",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/005.glb",
+              "label": "BUSK",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black & Teal",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "3ce81dc1-fbac-48c9-9f15-d8153a44f356",
+          "name": "BUSK 8",
+          "sku": "A97018F/8",
+          "origin_sku": "A97018F/8",
+          "url_key": "busk-dark-tortoise-rectangle-full-rim-glasses",
+          "slug": "glasses/busk-dark-tortoise-rectangle-full-rim-glasses",
+          "color": "Tortoise",
+          "price": "49.99",
+          "special_price": "29.99",
+          "stock_qty": 200,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk/busk-8/1751722213795-Screenshot_2025-07-05_at_14.29.40_hs3mwn.png",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-8/file_f0fnlu.webp",
+              "label": "Acetate full rim rectangle frames in Dark Tortoise – BUSK 8 by Tom Archer",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/busk-8/file_hlgzpq.webp",
+              "label": "Dark Tortoise rectangle spectacles with dark tortoise temples and spring hinges – Tom Archer BUSK 8",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/005.glb",
+              "label": "BUSK",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Tortoise",
+              "filter_color": "Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 53,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "27588c93-49f9-4b62-8555-44c4ee2850c8",
+      "name": "CHEESDEN",
+      "url_key": "cheesden",
+      "sku_base": "TL3040F",
+      "active_sku": "TL3040F/5",
+      "variants": [
+        {
+          "id": "1b1a22f2-1b0f-46a0-b89f-e0f75dff7be1",
+          "name": "CHEESDEN 1",
+          "sku": "TL3040F/1",
+          "origin_sku": "TL3040F/1",
+          "url_key": "cheesden-black-rectangular-magnetic-clip-on-glasses-yellow-grey",
+          "slug": "glasses/cheesden-black-rectangular-magnetic-clip-on-glasses-yellow-grey",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 3,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137033143-g52pzz6zh7.webp",
+              "label": "Black Rectangular Magnetic Clip-On Glasses – Yellow & Grey",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137052257-kv0mqo7c36.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137031499-2atlaptd2e.webp",
+              "label": "Black Rectangular Magnetic Clip-On Glasses – Yellow & Grey",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/006.glb",
+              "label": "CHEESDEN",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 50,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "3ccf6c04-453d-4f0f-a1fc-5c86abca1a8a",
+          "name": "CHEESDEN 2",
+          "sku": "TL3040F/2",
+          "origin_sku": "TL3040F/2",
+          "url_key": "cheesden-crystal-grey-ombre-rectangle-clip-on-glasses",
+          "slug": "glasses/cheesden-crystal-grey-ombre-rectangle-clip-on-glasses",
+          "color": "Crystal Grey Ombre",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 5,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137114168-8ive1nqa7zm.webp",
+              "label": "Crystal Grey Ombre Rectangle Clip-On Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137114761-p2gecsjkr.webp",
+              "label": "Crystal Grey Ombre Rectangle Clip-On Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137217047-bjl6j1h37o7.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/006.glb",
+              "label": "CHEESDEN",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey Ombre",
+              "filter_color": "Crystal, Grey, Dual-tone"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 50,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d2832f14-60e6-4818-8f0d-913d0df4c609",
+          "name": "CHEESDEN 3",
+          "sku": "TL3040F/3",
+          "origin_sku": "TL3040F/3",
+          "url_key": "cheesden-red-brown-ombre-clip-on-glasses-with-yellow-grey-lenses",
+          "slug": "glasses/cheesden-red-brown-ombre-clip-on-glasses-with-yellow-grey-lenses",
+          "color": "Red & Brown Ombre",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137459808-yu4yau68at.webp",
+              "label": "Red & Brown Ombre Clip-On Glasses with Yellow & Grey Lenses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137460407-rtu5m0mvqr.webp",
+              "label": "Red & Brown Ombre Clip-On Glasses with Yellow & Grey Lenses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137540835-rsh6627oo0q.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/006.glb",
+              "label": "CHEESDEN",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Red & Brown Ombre",
+              "filter_color": "Crystal, Red, Dual-tone"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 50,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "df13b042-719a-4580-88d2-7e092e0d83da",
+          "name": "CHEESDEN 4",
+          "sku": "TL3040F/4",
+          "origin_sku": "TL3040F/4",
+          "url_key": "cheesden-magnetic-clip-on-prescription-glasses-green-yellow",
+          "slug": "glasses/cheesden-magnetic-clip-on-prescription-glasses-green-yellow",
+          "color": "Teal & Grey Ombre",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137618855-fh59r3ryg9a.webp",
+              "label": "Magnetic Clip-On Prescription Glasses – Green & Yellow",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137619754-i52wgjwfvie.webp",
+              "label": "Magnetic Clip-On Prescription Glasses – Green & Yellow",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137708294-v4eyhbap1z.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/006.glb",
+              "label": "CHEESDEN",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Teal & Grey Ombre",
+              "filter_color": "Green, Crystal, Dual-tone"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 50,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "cdfa0a92-7ca7-45a3-a5b7-1121eca224a1",
+          "name": "CHEESDEN 5",
+          "sku": "TL3040F/5",
+          "origin_sku": "TL3040F/5",
+          "url_key": "cheesden-crystal-rose-ombre-clip-on-glasses-yellow-dark-grey-lenses",
+          "slug": "glasses/cheesden-crystal-rose-ombre-clip-on-glasses-yellow-dark-grey-lenses",
+          "color": "Crystal Rose Ombre",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137764633-twaro6ja7.webp",
+              "label": "Crystal Rose Ombre Clip-On Glasses - Yellow & Dark Grey Lenses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137765242-d8vhmpbft7s.webp",
+              "label": "Crystal Rose Ombre Clip-On Glasses - Yellow & Dark Grey Lenses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775137843140-h4fd5l4ivzj.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/static/glb/006.glb",
+              "label": "CHEESDEN",
+              "sort_order": 1,
+              "type": "glb_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Rose Ombre",
+              "filter_color": "Crystal, Pink, Dual-tone"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 50,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "e2e38078-761f-4247-940c-da0a9a5e6cd9",
+      "name": "TARBOCK",
+      "url_key": "tarbock",
+      "sku_base": "A97016F",
+      "active_sku": "A97016F/5",
+      "variants": [
+        {
+          "id": "7741b818-52c6-47da-8944-0bffcfba574f",
+          "name": "TARBOCK 5",
+          "sku": "A97016F/5",
+          "origin_sku": "A97016F/5",
+          "url_key": "tarbock-brown-and-black-rectangular-full-rim-glasses",
+          "slug": "glasses/tarbock-brown-and-black-rectangular-full-rim-glasses",
+          "color": "Brown",
+          "price": "59.99",
+          "special_price": "49.99",
+          "stock_qty": 11,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/tarbock/tarbock-5/file_kds9eu.jpg",
+              "label": "TARBOCK 5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/tarbock/tarbock-5/file_wezimy.webp",
+              "label": "Brown and Black Rectangular Full Rim Glasses frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/tarbock/tarbock-5/file_lmyibm.webp",
+              "label": "Brown and Black Rectangular Full Rim Glasses frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 55,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "6053cf69-ab2f-4f1c-aa6b-270e5773a424",
+      "name": "ASHTON",
+      "url_key": "ashton",
+      "sku_base": "A58022F",
+      "active_sku": "A58022F/1",
+      "variants": [
+        {
+          "id": "2469b966-0935-425c-9fb9-0889222fec04",
+          "name": "ASHTON 1",
+          "sku": "A58022F/1",
+          "origin_sku": "A58022F/1",
+          "url_key": "ashton-matte-green-oval-round-metal-glasses",
+          "slug": "glasses/ashton-matte-green-oval-round-metal-glasses",
+          "color": "Matte Green",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 15,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F1/p_img/A58022F_1-1.webp",
+              "label": "Matte Green Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F1/p_img/A58022F_1-3.webp",
+              "label": "Matte Green Oval Round Metal Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F1/swatch_image/A58022F_1-1.webp",
+              "label": "Matte Green Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Green",
+              "filter_color": "Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "7fa2fd5b-1d7b-4858-9b60-f41dee1fca8c",
+          "name": "ASHTON 2",
+          "sku": "A58022F/2",
+          "origin_sku": "A58022F/2",
+          "url_key": "ashton-matte-black-oval-round-metal-glasses",
+          "slug": "glasses/ashton-matte-black-oval-round-metal-glasses",
+          "color": "Matte Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 22,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F2/p_img/A58022F_2-1.webp",
+              "label": "Matte Black Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F2/p_img/A58022F_2-3.webp",
+              "label": "Matte Black Oval Round Metal Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F2/swatch_image/A58022F_2-1.webp",
+              "label": "Matte Black Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "c954dd26-62ba-482a-9969-5fb81765707a",
+          "name": "ASHTON 3",
+          "sku": "A58022F/3",
+          "origin_sku": "A58022F/3",
+          "url_key": "ashton-matte-bottle-green-oval-round-metal-glasses",
+          "slug": "glasses/ashton-matte-bottle-green-oval-round-metal-glasses",
+          "color": "Matte Bottle Green",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 16,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F3/p_img/A58022F_3-1.webp",
+              "label": "Matte Bottle Green Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F3/p_img/A58022F_3-3.webp",
+              "label": "Matte Bottle Green Oval Round Metal Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F3/swatch_image/A58022F_3-1.webp",
+              "label": "Matte Bottle Green Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Bottle Green",
+              "filter_color": "Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "ef49d639-0bf8-45ef-af0a-c469e28d8971",
+          "name": "ASHTON 4",
+          "sku": "A58022F/4",
+          "origin_sku": "A58022F/4",
+          "url_key": "ashton-black-dark-teal-oval-round-metal-glasses",
+          "slug": "glasses/ashton-black-dark-teal-oval-round-metal-glasses",
+          "color": "Black & Dark Teal",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F4/p_img/A58022F_4-1.webp",
+              "label": "Black & Dark Teal Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F4/p_img/A58022F_4-3.webp",
+              "label": "Black & Dark Teal Oval Round Metal Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A58022F/A58022F4/swatch_image/A58022F_4-1.webp",
+              "label": "Black & Dark Teal Oval Round Metal Glasses-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black & Dark Teal",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "38807fce-1ec8-414a-9259-7d9cd6c144cc",
+      "name": "FAIRFIELD",
+      "url_key": "fairfield",
+      "sku_base": "TL3010F",
+      "active_sku": "TL3010F/4",
+      "variants": [
+        {
+          "id": "c4d86301-3270-466b-b938-00d2cca18705",
+          "name": "FAIRFIELD 1",
+          "sku": "TL3010F/1",
+          "origin_sku": "TL3010F/1",
+          "url_key": "fairfield-black-pilot-double-bridge-clip-on-glasses",
+          "slug": "glasses/fairfield-black-pilot-double-bridge-clip-on-glasses",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 10,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3010F/TL3010F1/swatch_image/TL3010F_1-1.webp",
+              "label": "",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3010F/TL3010F1/p_img/TL3010F_1-3.webp",
+              "label": "Black Pilot Double Bridge Clip-On Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776244101737-xb6iyxfst4s.webp",
+              "label": "Black Pilot Double Bridge Clip-On Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "b7867d5b-6d2c-486d-aef5-ef4485b3da53",
+          "name": "FAIRFIELD 2",
+          "sku": "TL3010F/2",
+          "origin_sku": "TL3010F/2",
+          "url_key": "fairfield-crystal-grey-clip-on-glasses-with-green-yellow-lenses",
+          "slug": "glasses/fairfield-crystal-grey-clip-on-glasses-with-green-yellow-lenses",
+          "color": "Crystal Grey",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 7,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776839175095-hqj5qxvmb3g.webp",
+              "label": "Crystal Grey Clip-On Glasses with Green & Yellow Lenses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776838635529-auf7k2odjv.webp",
+              "label": "Crystal Grey Clip-On Glasses with Green & Yellow Lenses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3010F/TL3010F2/swatch_image/TL3010F_2-1.webp",
+              "label": "",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey",
+              "filter_color": "Crystal, Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "400ec194-f168-401f-a6cf-ee0f5d245d86",
+          "name": "FAIRFIELD 4",
+          "sku": "TL3010F/4",
+          "origin_sku": "TL3010F/4",
+          "url_key": "fairfield-dark-chestnut-magnetic-clip-on-prescription-glasses-green-yellow",
+          "slug": "glasses/fairfield-dark-chestnut-magnetic-clip-on-prescription-glasses-green-yellow",
+          "color": "Dark Chestnut",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 7,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3010F/TL3010F4/swatch_image/TL3010F_4-1.webp",
+              "label": "",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775197571178-h61ji74945.webp",
+              "label": "Dark Chestnut Magnetic Clip-On prescription Glasses – Green & Yellow",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3010F/TL3010F4/p_img/TL3010F_4-3.webp",
+              "label": "Dark Chestnut Magnetic Clip-On prescription Glasses – Green & Yellow",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Dark Chestnut",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "21012a58-03fd-4432-8088-3b9548b4ebf8",
+          "name": "FAIRFIELD 5",
+          "sku": "TL3010F/5",
+          "origin_sku": "TL3010F/5",
+          "url_key": "fairfield-crystal-clear-pilot-frame-green-yellow-clip-on",
+          "slug": "glasses/fairfield-crystal-clear-pilot-frame-green-yellow-clip-on",
+          "color": "Crystal Clear",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 4,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3010F/TL3010F5/swatch_image/TL3010F_5-1.webp",
+              "label": "",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775195820085-sr7ntexp74a.webp",
+              "label": "Crystal Clear Pilot Frame - Green & Yellow Clip-On",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777445820499-fu86j57l5a6.webp",
+              "label": "Crystal Clear Pilot Frame - Green & Yellow Clip-On",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Clear",
+              "filter_color": "Crystal, Clear"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 148,
+              "lens": 54,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "caa4f0b4-fabd-42d7-a52a-fd2c1a14b2b2",
+      "name": "WARDLEY",
+      "url_key": "wardley",
+      "sku_base": "TL1004F",
+      "active_sku": "TL1004F/1",
+      "variants": [
+        {
+          "id": "da129bbd-d96c-4d77-a591-4dd217c280f8",
+          "name": "WARDLEY 5",
+          "sku": "TL1004F/5",
+          "origin_sku": "TL1004F/5",
+          "url_key": "wardley-ocean-blue-square-glasses",
+          "slug": "glasses/wardley-ocean-blue-square-glasses",
+          "color": "Blue",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 18,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/wardley/wardley-5/file_ffjwg2.png",
+              "label": "WARDLEY 5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/wardley/wardley-5/file_ugutob.webp",
+              "label": "ocean blue square full rim glasses frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/wardley/wardley-5/file_czsuxf.webp",
+              "label": "ocean blue square full rim glasses frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Stripe Ocean Blue",
+              "filter_color": "Blue,Marble"
+            },
+            "accessories": {
+              "isTopPicks": true,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 19,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "461b71f3-2f54-4a9a-84fa-c3e571043303",
+      "name": "FREEHOLD",
+      "url_key": "freehold",
+      "sku_base": "A97261F",
+      "active_sku": "A97261F/3",
+      "variants": [
+        {
+          "id": "9f456820-887b-4430-97b7-e78d4db980f2",
+          "name": "FREEHOLD 1",
+          "sku": "A97261F/1",
+          "origin_sku": "A97261F/1",
+          "url_key": "freehold-black-round-full-rim-acetate-unisex-glasses",
+          "slug": "glasses/freehold-black-round-full-rim-acetate-unisex-glasses",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 24,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236276387-eb370vs784n.webp",
+              "label": "Black Round Full-Rim Acetate Unisex Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236276830-6zxgyr6gbem.webp",
+              "label": "Black Round Full-Rim Acetate Unisex Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236448303-gr9fttyby5s.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "498f95e6-40ac-4f1e-a6fd-abcfabcb4182",
+          "name": "FREEHOLD 2",
+          "sku": "A97261F/2",
+          "origin_sku": "A97261F/2",
+          "url_key": "freehold-matte-black-round-acetate-glasses-with-spring-hinges",
+          "slug": "glasses/freehold-matte-black-round-acetate-glasses-with-spring-hinges",
+          "color": "Matte Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 23,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236375362-5c35vs48fz9.webp",
+              "label": "Matte Black Round Acetate Glasses with Spring Hinges",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236376016-qvsw56w59pj.webp",
+              "label": "Matte Black Round Acetate Glasses with Spring Hinges",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236432589-mseum3jz6ue.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Matte Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "50c319cc-bcf6-480d-a31a-9ed54d676c44",
+          "name": "FREEHOLD 3",
+          "sku": "A97261F/3",
+          "origin_sku": "A97261F/3",
+          "url_key": "freehold-honey-marble-round-full-rim-acetate-frames",
+          "slug": "glasses/freehold-honey-marble-round-full-rim-acetate-frames",
+          "color": "Honey Marble",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/A97261F/A97261F3/p_img/A97261F_3-1.webp",
+              "label": "Honey Marble Round Full Rim Acetate Frames-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A97261F/A97261F3/p_img/A97261F_3-3.webp",
+              "label": "Honey Marble Round Full Rim Acetate Frames-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/A97261F/A97261F3/swatch_image/A97261F_3-1.webp",
+              "label": "Honey Marble Round Full Rim Acetate Frames-1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Honey Marble",
+              "filter_color": "Crystal,Marble,Tortoise,Yellow,Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "e8720189-c867-43d6-b166-115abd663d9a",
+          "name": "FREEHOLD 4",
+          "sku": "A97261F/4",
+          "origin_sku": "A97261F/4",
+          "url_key": "freehold-clear-blue-round-full-rim-acetate-large-glasses",
+          "slug": "glasses/freehold-clear-blue-round-full-rim-acetate-large-glasses",
+          "color": "Crystal Blue",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 25,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236471446-6f8cb9sukcx.webp",
+              "label": "Clear Blue Round Full-Rim Acetate Large Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236471858-vqs20ke4p2q.webp",
+              "label": "Clear Blue Round Full-Rim Acetate Large Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236860944-aujz2owx6n9.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Blue",
+              "filter_color": "Crystal,Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "81b2d757-5e69-4c55-a408-f0399dbf5d7b",
+          "name": "FREEHOLD 5",
+          "sku": "A97261F/5",
+          "origin_sku": "A97261F/5",
+          "url_key": "freehold-crystal-grey-marble-acetate-round-full-rim-glasses",
+          "slug": "glasses/freehold-crystal-grey-marble-acetate-round-full-rim-glasses",
+          "color": "Crystal Grey Marble",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 25,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778236877689-36hbpkyh8zp.webp",
+              "label": "Crystal Grey Marble Acetate Round Full-Rim Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778245157715-un2t72rru3.webp",
+              "label": "Crystal Grey Marble Acetate Round Full-Rim Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778239817221-iae845fiodg.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Grey Marble",
+              "filter_color": "Crystal,Grey,Marble"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d4c1130e-60e3-43ef-b2d2-bb9db01c6ba3",
+          "name": "FREEHOLD 6",
+          "sku": "A97261F/6",
+          "origin_sku": "A97261F/6",
+          "url_key": "freehold-transparent-round-acetate-unisex-glasses-with-spring-hinges",
+          "slug": "glasses/freehold-transparent-round-acetate-unisex-glasses-with-spring-hinges",
+          "color": "Crystal Clear",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 21,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778237013829-u2fhwe7ss2.webp",
+              "label": "Transparent Round Acetate Unisex Glasses with Spring Hinges",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778474370283-h8war5gwboe.webp",
+              "label": "Transparent Round Acetate Unisex Glasses with Spring Hinges",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778237084466-y6env9tjxzq.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Clear",
+              "filter_color": "Crystal,Clear"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "4a81e5f4-1bd2-4429-b208-47a404ee3150",
+          "name": "FREEHOLD 7",
+          "sku": "A97261F/7",
+          "origin_sku": "A97261F/7",
+          "url_key": "freehold-translucent-steel-grey-big-round-acetate-eyeglasses",
+          "slug": "glasses/freehold-translucent-steel-grey-big-round-acetate-eyeglasses",
+          "color": "Translucent Steel Grey",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 26,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778239869529-r8p7qhnwu9l.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778237099385-pjaar7etknb.webp",
+              "label": "Translucent Steel Grey Big Round Acetate Eyeglasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1778237099779-otgnn0lagkj.webp",
+              "label": "Translucent Steel Grey Big Round Acetate Eyeglasses",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Translucent Steel Grey",
+              "filter_color": "Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 49,
+              "bridge": 20,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "4955e94c-feee-4559-945e-d031990b29bb",
+      "name": "CLEVELEYS",
+      "url_key": "cleveleys",
+      "sku_base": "TL6044F",
+      "active_sku": "TL6044F/2",
+      "variants": [
+        {
+          "id": "874fcbc1-8281-41c1-b782-63509da327c0",
+          "name": "CLEVELEYS 1",
+          "sku": "TL6044F/1",
+          "origin_sku": "TL6044F/1",
+          "url_key": "cleveleys-black-rectangle-browline-acetate-glasses",
+          "slug": "glasses/cleveleys-black-rectangle-browline-acetate-glasses",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 20,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL6044F/TL6044F1/P_img/TL6044F_1-1.webp",
+              "label": "Black Rectangle Browline Acetate Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL6044F/TL6044F1/P_img/TL6044F_1-3.webp",
+              "label": "Black Rectangle Browline Acetate Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/elswick/elswick-2/1774261777462-vle478x874f.webp",
+              "label": "CLEVELEYS 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Half Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 138,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "bdd0ce10-bb1f-478c-a830-7bdd5e2af9c8",
+          "name": "CLEVELEYS 2",
+          "sku": "TL6044F/2",
+          "origin_sku": "TL6044F/2",
+          "url_key": "cleveleys-orange-tortoise-rectangle-browline-acetate-glasses",
+          "slug": "glasses/cleveleys-orange-tortoise-rectangle-browline-acetate-glasses",
+          "color": "Orange Tortoise",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 7,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/granville/granville-3/1774261800299-bw1swiu6iyo.webp",
+              "label": "CLEVELEYS 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL6044F/TL6044F2/P_img/TL6044F_2-1.webp",
+              "label": "Orange Tortoise Rectangle Browline Acetate Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL6044F/TL6044F2/P_img/TL6044F_2-3.webp",
+              "label": "Orange Tortoise Rectangle Browline Acetate Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Half Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Orange Tortoise",
+              "filter_color": "Orange,Tortoise"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 138,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "5774c92d-91e5-4438-b3ae-5a79ae58ec2a",
+          "name": "CLEVELEYS 3",
+          "sku": "TL6044F/3",
+          "origin_sku": "TL6044F/3",
+          "url_key": "cleveleys-pear-green-rectangle-browline-acetate-glasses",
+          "slug": "glasses/cleveleys-pear-green-rectangle-browline-acetate-glasses",
+          "color": "Pear Green",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 5,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL6044F/TL6044F3/P_img/TL6044F_3-3.webp",
+              "label": "Pear Green Rectangle Browline Acetate Glasses-3",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/lathom/lathom-4/1774261836052-ssdlzjy3ur.webp",
+              "label": "CLEVELEYS 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL6044F/TL6044F3/P_img/TL6044F_3-1.webp",
+              "label": "Pear Green Rectangle Browline Acetate Glasses-1",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Half Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Pear Green",
+              "filter_color": "Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 138,
+              "lens": 52,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "f089e21e-8bec-4f28-8960-4287b7563ac2",
+      "name": "CLIFFORD",
+      "url_key": "clifford",
+      "sku_base": "A88722F",
+      "active_sku": "A88722F/7",
+      "variants": [
+        {
+          "id": "d82eae2a-0b79-4a0a-aff9-6749f0c026de",
+          "name": "CLIFFORD 1",
+          "sku": "A88722F/1",
+          "origin_sku": "A88722F/1",
+          "url_key": "clifford-black-square-cateye-glasses-frames",
+          "slug": "glasses/clifford-black-square-cateye-glasses-frames",
+          "color": "Black",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 12,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-1/file_xp0agx.webp",
+              "label": "black-square-cateye-round-glasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-1/file_ara3je.webp",
+              "label": "black-square-cateye-round-glasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-1/file_h9yrsa.jpg",
+              "label": "CLIFFORD 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "6d5bc1bb-0ed7-469a-920e-0064b80b91cc",
+          "name": "CLIFFORD 2",
+          "sku": "A88722F/2",
+          "origin_sku": "A88722F/2",
+          "url_key": "clifford-grey-square-cateye-glasses-frame",
+          "slug": "glasses/clifford-grey-square-cateye-glasses-frame",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 33,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-2/file_tixuvf.webp",
+              "label": "transparent-grey-square-cateye-round-glasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-2/file_qd7vhf.webp",
+              "label": "transparent-grey-square-cateye-round-glasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-2/file_vnkrcu.png",
+              "label": "CLIFFORD 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Space Grey",
+              "filter_color": "Crystal,Grey"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "05305ae8-9d27-4492-8f7f-a8dec8e5f841",
+          "name": "CLIFFORD 3",
+          "sku": "A88722F/3",
+          "origin_sku": "A88722F/3",
+          "url_key": "clifford-red-square-cateye-glasses",
+          "slug": "glasses/clifford-red-square-cateye-glasses",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 36,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-3/file_su9rlf.png",
+              "label": "CLIFFORD 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-3/file_oezbzw.webp",
+              "label": "dark-and-red-square-cateye-glasses-glasses-frames-1",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-3/file_ejtsjd.jpg",
+              "label": "dark-and-red-square-cateye-glasses-glasses-frames-1",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Wine Red",
+              "filter_color": "Crystal,Red"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "bee67397-2524-4502-993f-68700a1bfeb8",
+          "name": "CLIFFORD 4",
+          "sku": "A88722F/4",
+          "origin_sku": "A88722F/4",
+          "url_key": "clifford-purple-square-cateye-eyeglasses-frame",
+          "slug": "glasses/clifford-purple-square-cateye-eyeglasses-frame",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 22,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-4/file_jfdsnh.png",
+              "label": "CLIFFORD 4",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-4/file_vabj0m.webp",
+              "label": "transparent-and-crystal-clear-purple-square-cateye-glasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-4/file_wbvvbc.webp",
+              "label": "transparent-and-crystal-clear-purple-square-cateye-glasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Pastel Purple",
+              "filter_color": "Crystal,Purple"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "986c309a-2b50-4ee2-92be-ad00ee808765",
+          "name": "CLIFFORD 5",
+          "sku": "A88722F/5",
+          "origin_sku": "A88722F/5",
+          "url_key": "clifford-orange-square-cateye-eyeglasses",
+          "slug": "glasses/clifford-orange-square-cateye-eyeglasses",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 50,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-5/file_ocrwmk.webp",
+              "label": "crystal-clear-and-transparent-tinted-orange-square-cat-eye-glasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-5/file_fr2vfx.jpg",
+              "label": "CLIFFORD 5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-5/file_r9vwa4.webp",
+              "label": "crystal-clear-and-transparent-tinted-orange-square-cat-eye-glasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Coral Orange",
+              "filter_color": "Crystal,Orange"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "528fac6a-efea-4a51-943a-19ecc18e34b2",
+          "name": "CLIFFORD 6",
+          "sku": "A88722F/6",
+          "origin_sku": "A88722F/6",
+          "url_key": "clifford-blue-square-cateye-eyeglasses-frame",
+          "slug": "glasses/clifford-blue-square-cateye-eyeglasses-frame",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 53,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-6/file_woqnga.webp",
+              "label": "crystal-clear-and-transparent-blue-square-cateye-glasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-6/file_ujtqsl.webp",
+              "label": "crystal-clear-and-transparent-blue-square-cateye-glasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-6/file_xoicio.png",
+              "label": "CLIFFORD 6",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Dusty Blue",
+              "filter_color": "Crystal,Blue"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "761b022b-3933-446d-83ba-dfe78057adca",
+          "name": "CLIFFORD 7",
+          "sku": "A88722F/7",
+          "origin_sku": "A88722F/7",
+          "url_key": "clifford-pink-square-cateye-glasses-frame",
+          "slug": "glasses/clifford-pink-square-cateye-glasses-frame",
+          "color": "Crystal",
+          "price": "54.99",
+          "special_price": "39.99",
+          "stock_qty": 27,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-7/file_hyrzr6.png",
+              "label": "CLIFFORD 7",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-7/file_mvjjpm.webp",
+              "label": "crystal-clear-and-transparent-pink-square-cat-eye-glasses-frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clifford/clifford-7/file_jijuxo.webp",
+              "label": "crystal-clear-and-transparent-pink-square-cat-eye-glasses-frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Cherry Blossom Pink",
+              "filter_color": "Crystal,Pink"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 51,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "a56683b5-79f5-4e8f-9543-5e37dc405d4f",
+      "name": "BASHALL",
+      "url_key": "bashall",
+      "sku_base": "TL3001F",
+      "active_sku": "TL3001F/3",
+      "variants": [
+        {
+          "id": "d922521f-aaa4-4be8-8c1b-aa1480dfb742",
+          "name": "BASHALL 1",
+          "sku": "TL3001F/1",
+          "origin_sku": "TL3001F/1",
+          "url_key": "bashall-black-magnetic-clip-on-prescription-glasses-green-yellow",
+          "slug": "glasses/bashall-black-magnetic-clip-on-prescription-glasses-green-yellow",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": null,
+          "stock_qty": 3,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776243737658-t4ozsbep2ub.webp",
+              "label": "Black Magnetic Clip-On Prescription Glasses – Green & Yellow",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3001F/TL3001F1/swatch_image/TL3001F_1-1.webp",
+              "label": "",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/TL3001F/TL3001F1/p_img/TL3001F_1-3.webp",
+              "label": "Black Magnetic Clip-On Prescription Glasses – Green & Yellow",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Clip Ons",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 19,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "c2d44062-7d23-4593-98c1-3a47744b77d2",
+      "name": "KEMPSTON",
+      "url_key": "kempston",
+      "sku_base": "T1312F",
+      "active_sku": "T1312F/2",
+      "variants": [
+        {
+          "id": "13780e22-14d7-4ea7-b5c7-40cc3fc67813",
+          "name": "KEMPSTON 1",
+          "sku": "T1312F/1",
+          "origin_sku": "T1312F/1",
+          "url_key": "kempston-hexagon-wire-frame-glasses",
+          "slug": "glasses/kempston-hexagon-wire-frame-glasses",
+          "color": "Black",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 79,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-1/file_ajrker.jpg",
+              "label": "KEMPSTON 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-1/file_lwsy1z.webp",
+              "label": "Metal full rim geometric frames in Black – KEMPSTON 1 by Tom Archer",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-1/file_f48rnm.webp",
+              "label": "KEMPSTON 1 medium geometric eyeglasses, 51-21-145 fit",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "680becb0-771e-4e13-bff3-90aab8746277",
+          "name": "KEMPSTON 2",
+          "sku": "T1312F/2",
+          "origin_sku": "T1312F/2",
+          "url_key": "kempston-luxury-gold-stylish-metal-eyeglasses",
+          "slug": "glasses/kempston-luxury-gold-stylish-metal-eyeglasses",
+          "color": "Gold",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 34,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-2/file_uc8cmv.webp",
+              "label": "KEMPSTON 2 medium geometric eyeglasses, 51-21-145 fit",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-2/file_xhg9f8.webp",
+              "label": "Metal full rim geometric frames in Champagne Gold – KEMPSTON 2 by Tom Archer",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-2/file_awmnwe.jpg",
+              "label": "KEMPSTON 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Champagne Gold",
+              "filter_color": "Gold"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "1a0edad5-afb4-4466-8ce9-8ab8a7fc46b7",
+          "name": "KEMPSTON 4",
+          "sku": "T1312F/4",
+          "origin_sku": "T1312F/4",
+          "url_key": "kempston-silver-hexagon-glasses",
+          "slug": "glasses/kempston-silver-hexagon-glasses",
+          "color": "Silver",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 64,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-4/file_rd09w7.webp",
+              "label": "Tom Archer KEMPSTON 4 Silver Geometric glasses for unisex",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-4/file_umopdb.jpg",
+              "label": "KEMPSTON 4",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-4/file_tizjdx.webp",
+              "label": "Silver geometric spectacles with silver temples – Tom Archer KEMPSTON 4",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "d7069604-44ca-4c32-83fd-83936b80a02b",
+          "name": "KEMPSTON 5",
+          "sku": "T1312F/5",
+          "origin_sku": "T1312F/5",
+          "url_key": "kempston-hexagon-metal-frame-glasses",
+          "slug": "glasses/kempston-hexagon-metal-frame-glasses",
+          "color": "Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 91,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-5/file_o1ixlr.webp",
+              "label": "Tom Archer KEMPSTON 5 Bronze Geometric glasses for unisex",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-5/file_tzzjxu.jpg",
+              "label": "KEMPSTON 5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/kempston/kempston-5/file_pygo2k.webp",
+              "label": "Bronze geometric spectacles with bronze temples – Tom Archer KEMPSTON 5",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Bronze",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 145,
+              "lens": 51,
+              "bridge": 21,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "d2cae8ea-0db8-4b32-a5a8-0e6d4ec90d74",
+      "name": "ALFRED PB",
+      "url_key": "alfredpb",
+      "sku_base": "T7012F",
+      "active_sku": "T7012F/BR",
+      "variants": [
+        {
+          "id": "94931a62-3fe8-4d1b-95f6-7ad26a09cb8b",
+          "name": "ALFRED PB5",
+          "sku": "T7012F/BR",
+          "origin_sku": "T7012F/BR",
+          "url_key": "alfredpb-alfred-pb-brown-vintage-eyeglasses",
+          "slug": "glasses/alfredpb-alfred-pb-brown-vintage-eyeglasses",
+          "color": "Brown",
+          "price": "59.99",
+          "special_price": "39.99",
+          "stock_qty": 22,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/alfred-pb/alfred-pb5/file_zl8usd.jpg",
+              "label": "ALFRED PB5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/94931a62-3fe8-4d1b-95f6-7ad26a09cb8b/p_img/1785146080872-643fjk6nhs5.webp",
+              "label": "Metal full rim square frames in Brown – ALFRED PB5 by Tom Archer",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/alfred-pb/alfred-pb5/file_jw2t33.jpg",
+              "label": "ALFRED PB5",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/94931a62-3fe8-4d1b-95f6-7ad26a09cb8b/p_img/1785146081022-ravrofm24si.webp",
+              "label": "Metal full rim square frames in Brown – ALFRED PB5 by Tom Archer",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 53,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "7ad9794f-7192-4561-b96c-8d5fdba33bfc",
+          "name": "ALFRED PB2",
+          "sku": "T7012F/GM",
+          "origin_sku": "T7012F/GM",
+          "url_key": "alfredpb-metal-thin-glasses-for-men-women",
+          "slug": "glasses/alfredpb-metal-thin-glasses-for-men-women",
+          "color": "Gunmetal",
+          "price": "59.99",
+          "special_price": "39.99",
+          "stock_qty": 5,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/alfred-pb/alfred-pb2/file_gjsyyn.jpg",
+              "label": "ALFRED PB2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/7ad9794f-7192-4561-b96c-8d5fdba33bfc/p_img/1785146238470-s4rir18q0wd.webp",
+              "label": "Gunmetal Square Glasses, Eyeglasses -2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/7ad9794f-7192-4561-b96c-8d5fdba33bfc/p_img/1785146238436-onk0y5rxtl.webp",
+              "label": "Gunmetal Square Glasses, Eyeglasses -2",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gunmetal",
+              "filter_color": "Gunmetal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 140,
+              "lens": 53,
+              "bridge": 16,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "32f21364-2e68-4b3b-8c5c-fbfb825212e2",
+      "name": "ROUGHLEE",
+      "url_key": "roughlee",
+      "sku_base": "A1128F",
+      "active_sku": "A1128F/2",
+      "variants": [
+        {
+          "id": "b78ec933-f600-4285-bf53-9315da7dc643",
+          "name": "ROUGHLEE 2",
+          "sku": "A1128F/2",
+          "origin_sku": "A1128F/2",
+          "url_key": "roughlee-crystal-maze-grey-geometric-fullrim-glasses",
+          "slug": "glasses/roughlee-crystal-maze-grey-geometric-fullrim-glasses",
+          "color": "Crystal Maze & Grey",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 12,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480070654-px24nkwv7x.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480064262-ympm7ijgyb.webp",
+              "label": "Crystal Maze & Grey Geometric Fullrim Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480063806-d0ejo5l6amp.webp",
+              "label": "Crystal Maze & Grey Geometric Fullrim Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Crystal Maze & Grey",
+              "filter_color": "Grey, Crystal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 52,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "fa660ae9-f005-4e24-a291-7861a98cab83",
+          "name": "ROUGHLEE 3",
+          "sku": "A1128F/3",
+          "origin_sku": "A1128F/3",
+          "url_key": "roughlee-red-maze-brown-geometric-fullrim-glasses",
+          "slug": "glasses/roughlee-red-maze-brown-geometric-fullrim-glasses",
+          "color": "Red Maze & Brown",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 5,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480164196-u37tqdvy78p.webp",
+              "label": "Red Maze & Brown Geometric Fullrim Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480163745-hinhexawfw9.webp",
+              "label": "Red Maze & Brown Geometric Fullrim Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480171120-0doz7m42vci.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Red Maze & Brown",
+              "filter_color": "Red, Crystal, Colourful"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 52,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "35d19e4e-944a-4f0b-afca-7f1a5b882369",
+          "name": "ROUGHLEE 4",
+          "sku": "A1128F/4",
+          "origin_sku": "A1128F/4",
+          "url_key": "roughlee-green-maze-pink-geometric-fullrim-glasses",
+          "slug": "glasses/roughlee-green-maze-pink-geometric-fullrim-glasses",
+          "color": "Green Maze & Pink",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 6,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480233113-a5sgfr78x8.webp",
+              "label": "Green Maze & Pink Geometric Fullrim Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480262449-x5x9oeamjfl.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480233550-fainq83tdbo.webp",
+              "label": "Green Maze & Pink Geometric Fullrim Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Green Maze & Pink",
+              "filter_color": "Green, Crytsal, Pink, Colourful"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 52,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "46690ab3-30d9-4f25-ba3d-9af64357676d",
+          "name": "ROUGHLEE 5",
+          "sku": "A1128F/5",
+          "origin_sku": "A1128F/5",
+          "url_key": "roughlee-olive-green-geometric-fullrim-glasses",
+          "slug": "glasses/roughlee-olive-green-geometric-fullrim-glasses",
+          "color": "Olive Green",
+          "price": "69.99",
+          "special_price": null,
+          "stock_qty": 21,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480338462-9x65299fiqn.webp",
+              "label": "Olive Green Geometric Fullrim Glasses",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480337907-n3oijszltt.webp",
+              "label": "Olive Green Geometric Fullrim Glasses",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1775480345739-6ieli2sj1o9.webp",
+              "label": null,
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Acetate",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Olive Green",
+              "filter_color": "Green"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": true,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 142,
+              "lens": 52,
+              "bridge": 17,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    },
+    {
+      "id": "d60b1810-d585-4a74-ad5b-b77e1de51cdf",
+      "name": "CLOUGH",
+      "url_key": "clough",
+      "sku_base": "T2212F",
+      "active_sku": "T2212F/BR",
+      "variants": [
+        {
+          "id": "648a1b90-b096-4753-b566-ddd288450cfb",
+          "name": "CLOUGH 1",
+          "sku": "T2212F/BL",
+          "origin_sku": "T2212F/BL",
+          "url_key": "clough-blue-light-glasses-full-frame",
+          "slug": "glasses/clough-blue-light-glasses-full-frame",
+          "color": "Black",
+          "price": "59.99",
+          "special_price": "49.99",
+          "stock_qty": 25,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-1/file_ycpvgv.jpg",
+              "label": "CLOUGH 1",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-1/file_v9eak1.webp",
+              "label": "blue light glasses full frame-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-1/file_tpzlx5.webp",
+              "label": "blue light glasses full frame-2",
+              "sort_order": 3,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Black",
+              "filter_color": "Black"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 48,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "3fac8561-6fe8-45d8-b128-2c2cfc228aed",
+          "name": "CLOUGH 4",
+          "sku": "T2212F/BR",
+          "origin_sku": "T2212F/BR",
+          "url_key": "clough-titanium-spectacle-frames",
+          "slug": "glasses/clough-titanium-spectacle-frames",
+          "color": "Brown",
+          "price": "59.99",
+          "special_price": "49.99",
+          "stock_qty": 19,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-4/file_nvsfqu.webp",
+              "label": "titanium spectacle frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-4/file_nwr7va.jpg",
+              "label": "CLOUGH 4",
+              "sort_order": 1,
+              "type": "swatch_image"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-4/file_mjz2sj.webp",
+              "label": "titanium spectacle frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Brown",
+              "filter_color": "Brown"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 48,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "abc1a1d8-cb0b-4b4c-8b0b-f29b14c053da",
+          "name": "CLOUGH 2",
+          "sku": "T2212F/GM",
+          "origin_sku": "T2212F/GM",
+          "url_key": "clough-round-titanium-eyeglass-frames",
+          "slug": "glasses/clough-round-titanium-eyeglass-frames",
+          "color": "Gunmetal",
+          "price": "59.99",
+          "special_price": "49.99",
+          "stock_qty": 6,
+          "isHomeTrial": false,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-2/file_jmbj6c.webp",
+              "label": "round titanium eyeglass frames-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-2/file_jidskt.webp",
+              "label": "round titanium eyeglass frames-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-2/file_mwlnoo.jpg",
+              "label": "CLOUGH 2",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Gunmetal",
+              "filter_color": "Gunmetal"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 48,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        },
+        {
+          "id": "3c9a12bb-ad22-45be-956a-5764a7f724dd",
+          "name": "CLOUGH 3",
+          "sku": "T2212F/S",
+          "origin_sku": "T2212F/S",
+          "url_key": "clough-titanium-round-glasses",
+          "slug": "glasses/clough-titanium-round-glasses",
+          "color": "Silver",
+          "price": "59.99",
+          "special_price": "49.99",
+          "stock_qty": 19,
+          "isHomeTrial": true,
+          "images": [
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-3/file_kxn89a.webp",
+              "label": "titanium round glasses-2",
+              "sort_order": 3,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-3/file_rqwkrt.webp",
+              "label": "titanium round glasses-2",
+              "sort_order": 1,
+              "type": "p_img"
+            },
+            {
+              "img_path": "https://images.specscart.co.uk/products/clough/clough-3/file_dgy1e8.jpg",
+              "label": "CLOUGH 3",
+              "sort_order": 1,
+              "type": "swatch_image"
+            }
+          ],
+          "variant_info": {
+            "brand": "TOM ARCHER",
+            "type": "Full Rim",
+            "material": "Metal",
+            "ranking": 0,
+            "color": {
+              "frame_color": "Silver",
+              "filter_color": "Silver"
+            },
+            "accessories": {
+              "isTopPicks": false,
+              "isNewArrival": false,
+              "isExtraPetite": false,
+              "isOversized": false,
+              "isLightWeight": false,
+              "arm": 135,
+              "lens": 48,
+              "bridge": 18,
+              "isHometrial": true
+            }
+          },
+          "stock_availability": true
+        }
+      ]
+    }
+  ]
+}

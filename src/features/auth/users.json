@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Demo User",
+      "email": "demo@gmail.com",
+      "password": "Specscart@123"
+    },
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin@123"
+    },
+    {
+      "name": "Test User",
+      "email": "test@gmail.com",
+      "password": "test@123"
+    }
+  ]
+}

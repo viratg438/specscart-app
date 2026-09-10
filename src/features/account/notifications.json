@@ -1,0 +1,30 @@
+[
+  {
+    "id": "n-1",
+    "title": "Order SC-10451 is on its way",
+    "body": "Your Nova Tortoise frames have been dispatched. Track them from Orders.",
+    "date": "2026-09-09",
+    "unread": true
+  },
+  {
+    "id": "n-2",
+    "title": "Wallet credit added",
+    "body": "£10.00 cashback from your last prescription order is now in your wallet.",
+    "date": "2026-09-04",
+    "unread": true
+  },
+  {
+    "id": "n-3",
+    "title": "BUY 2 GET 50% OFF",
+    "body": "Add a second frame this week and get 50% off the lower-priced pair.",
+    "date": "2026-08-28",
+    "unread": false
+  },
+  {
+    "id": "n-4",
+    "title": "Order SC-10390 delivered",
+    "body": "Milo Clear was delivered. Need a tweak? Book a free adjustment in store.",
+    "date": "2026-07-16",
+    "unread": false
+  }
+]

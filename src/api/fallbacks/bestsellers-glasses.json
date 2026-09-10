@@ -1,0 +1,1349 @@
+[
+  {
+    "id": "bb7713ac-61db-4348-abe6-749e038d2c73",
+    "url_key": "busk",
+    "active_sku": "A97018F/1",
+    "variants": [
+      {
+        "id": "c15bea02-532e-4af4-98c4-dcc859a41f7f",
+        "name": "BUSK 6",
+        "url_key": "transparent-rectangular-frame-glasses-for-men",
+        "slug": "glasses/busk-transparent-rectangular-frame-glasses-for-men",
+        "price": "49.99",
+        "special_price": "29.99",
+        "sku": "A97018F/6",
+        "origin_sku": "A97018F/6",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_s1tv23.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_yjf5ue.jpg",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-6/file_naifdc.jpg",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 641,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "3ce81dc1-fbac-48c9-9f15-d8153a44f356",
+        "name": "BUSK 8",
+        "url_key": "dark-tortoise-rectangle-full-rim-glasses",
+        "slug": "glasses/busk-dark-tortoise-rectangle-full-rim-glasses",
+        "price": "49.99",
+        "special_price": "29.99",
+        "sku": "A97018F/8",
+        "origin_sku": "A97018F/8",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk-8/file_hlgzpq.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-8/1762430845605-A97018F_8-m-3_xr1biz.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-8/1762430844986-A97018F_8-f-2_r8tdln.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-8/1751722213795-Screenshot_2025-07-05_at_14.29.40_hs3mwn.png",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 200,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "9cc74591-b870-4118-b8a8-db1c418c0a72",
+        "name": "BUSK 1",
+        "url_key": "black-rectangular-eyeglasses-frames",
+        "slug": "glasses/busk-black-rectangular-eyeglasses-frames",
+        "price": "49.99",
+        "special_price": "29.99",
+        "sku": "A97018F/1",
+        "origin_sku": "A97018F/1",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-1/file_hvrwte.jpg",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-1/file_aukfhh.jpg",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-1/file_gzb44p.jpg",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 342,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "a3faad45-d48c-412b-b184-908a127a9dc3",
+        "name": "BUSK 3",
+        "url_key": "brown-eyeglasses-frame",
+        "slug": "glasses/busk-brown-eyeglasses-frame",
+        "price": "49.99",
+        "special_price": "29.99",
+        "sku": "A97018F/3",
+        "origin_sku": "A97018F/3",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_idxynj.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_apbugu.jpg",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-3/file_lkqoqu.jpg",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 60,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "2f28e9c2-44d2-41f4-8b8a-2b18e9a6b22d",
+        "name": "BUSK 7",
+        "url_key": "designer-black-and-teal-rectangular-glasses",
+        "slug": "glasses/busk-designer-black-and-teal-rectangular-glasses",
+        "price": "49.99",
+        "special_price": "29.99",
+        "sku": "A97018F/7",
+        "origin_sku": "A97018F/7",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-7/1764915627089-97018-f7-1_xhnai5.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-7/file_fslxjb.png",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/busk/busk-7/file_mhdkwx.png",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 483,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "e6762d26-e734-450a-a7a9-5d7db2332974",
+    "url_key": "pimhole",
+    "active_sku": "A26062F/5",
+    "variants": [
+      {
+        "id": "4e0090fe-50e6-4b4d-8912-7bb8edfd0b48",
+        "name": "PIMHOLE 4",
+        "url_key": "gunmetal-silver-round-full-rim-eyeglasses",
+        "slug": "glasses/pimhole-gunmetal-silver-round-full-rim-eyeglasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A26062F/4",
+        "origin_sku": "A26062F/4",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-4/1753447981695-26062-f4-1_vblwre.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-4/file_jtg9jt.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 21,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "ded287c8-9c67-4a81-9fa7-d0dd1db3db2d",
+        "name": "PIMHOLE 2",
+        "url_key": "platinum-silver-full-rim-round-glasses",
+        "slug": "glasses/pimhole-platinum-silver-full-rim-round-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A26062F/2",
+        "origin_sku": "A26062F/2",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-2/file_xnp4to.png",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-2/file_bjvxgz.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 7,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "b6e58600-b702-41fa-87ea-83316973f5a2",
+        "name": "PIMHOLE 3",
+        "url_key": "champagne-gold-black-metal-glasses",
+        "slug": "glasses/pimhole-champagne-gold-black-metal-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A26062F/3",
+        "origin_sku": "A26062F/3",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-3/file_q7ncsf.png",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-3/file_dwuc0m.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 28,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "595ef1d0-fbef-497f-b741-3a47537213b2",
+        "name": "PIMHOLE 5",
+        "url_key": "gold-full-rim-round-metal-glasses",
+        "slug": "glasses/pimhole-gold-full-rim-round-metal-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A26062F/5",
+        "origin_sku": "A26062F/5",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-5/1753448003744-26062-f5-1_njafnm.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-5/file_xaxzbf.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 18,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "945a2337-3bb9-488a-928e-c62d119ab2eb",
+        "name": "PIMHOLE 6",
+        "url_key": "silver-full-rim-metal-round-eyeglasses",
+        "slug": "glasses/pimhole-silver-full-rim-metal-round-eyeglasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A26062F/6",
+        "origin_sku": "A26062F/6",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-6/file_sjp4sh.jpg",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/pimhole/pimhole-6/file_glywzz.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 15,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "43220865-be3d-4c80-acde-9b95f8c63d4d",
+    "url_key": "valeria",
+    "active_sku": "TL1120F/4",
+    "variants": [
+      {
+        "id": "4d3f3d20-f35d-426e-9e2a-a73bfd3043c6",
+        "name": "VALERIA 4",
+        "url_key": "blue-and-gold-glasses",
+        "slug": "glasses/valeria-blue-and-gold-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TL1120F/4",
+        "origin_sku": "TL1120F/4",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-4/file_ranq7n.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-4/file_cavmmg.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-4/file_lw6gb1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-4/file_hepvob.png",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 3,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "80ba679b-7934-4ea6-ae91-f08033f76ee6",
+        "name": "VALERIA 5",
+        "url_key": "marzipan-tortoise-eyeglasses",
+        "slug": "glasses/valeria-marzipan-tortoise-eyeglasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TL1120F/5",
+        "origin_sku": "TL1120F/5",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-5/file_mmyabq.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-5/file_valmu3.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-5/file_gdpmp5.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/valeria/valeria-5/file_togioc.png",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 7,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "e3f047c1-520f-4759-96a2-fb77fd98f420",
+    "url_key": "dalton",
+    "active_sku": "A6458F/1",
+    "variants": [
+      {
+        "id": "e0b64558-fc77-49e0-ac36-d1cf19b04804",
+        "name": "DALTON 2",
+        "url_key": "black-gold-metal-eyeglasses",
+        "slug": "glasses/dalton-black-gold-metal-eyeglasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A6458F/2",
+        "origin_sku": "A6458F/2",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-2/file_hkrjqe.png",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-2/file_fqnpx8.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-2/file_wwxtez.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-2/file_jjpkqa.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 7,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "dfe16b30-c32e-4ead-a8d0-8d203fec52a6",
+        "name": "DALTON 3",
+        "url_key": "black-silver-eyeglasses",
+        "slug": "glasses/dalton-black-silver-eyeglasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A6458F/3",
+        "origin_sku": "A6458F/3",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-3/file_kda73d.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-3/file_z36elt.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-3/file_qclh8c.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-3/file_c5fqku.png",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 1,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "bcdb9108-4bac-446e-9570-2a8d9fd6c1ed",
+        "name": "DALTON 5",
+        "url_key": "copper-brown-metal-eyeglasses",
+        "slug": "glasses/dalton-copper-brown-metal-eyeglasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A6458F/5",
+        "origin_sku": "A6458F/5",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-5/file_o1rpou.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-5/file_eistl7.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-5/file_aluflz.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-5/file_rrhdd7.png",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 11,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "531b60c7-0730-4cec-8d9a-aa4e06b688d9",
+        "name": "DALTON 6",
+        "url_key": "black-square-double-bridge-glasses",
+        "slug": "glasses/dalton-black-square-double-bridge-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A6458F/6",
+        "origin_sku": "A6458F/6",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-6/file_lgvr4x.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-6/file_ckvqhg.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-6/file_nt6ueq.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/dalton/dalton-6/file_xofux4.jpg",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 8,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "893c202a-65e0-4c02-bfea-9b5a9527166c",
+    "url_key": "larbreck",
+    "active_sku": null,
+    "variants": [
+      {
+        "id": "d2fe4a24-0a1e-42b4-803a-cd3afb1ac0e3",
+        "name": "LARBRECK 4",
+        "url_key": "crystal-blue-round-fullrim-acetate-glasses",
+        "slug": "glasses/larbreck-crystal-blue-round-fullrim-acetate-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/4",
+        "origin_sku": "A97280F/4",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F4/swatch_image/A97280F_4-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F4/p_img/A97280F_4-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480547102-xrtfsq4e9pl.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480557735-c6icbulps4.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 25,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "3f255d5e-6313-49e0-b1aa-b4cd51382770",
+        "name": "LARBRECK 7",
+        "url_key": "gin-green-round-fullrim-acetate-glasses",
+        "slug": "glasses/larbreck-gin-green-round-fullrim-acetate-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/7",
+        "origin_sku": "A97280F/7",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F7/p_img/A97280F_7-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F7/swatch_image/A97280F_7-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480572759-mtlxpa7hmdm.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480577008-bha0lfzzca7.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 32,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "d9b3c3c0-714a-4f99-98ed-347666879436",
+        "name": "LARBRECK 3",
+        "url_key": "tortoise-round-fullrim-acetate-glasses",
+        "slug": "glasses/larbreck-tortoise-round-fullrim-acetate-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/3",
+        "origin_sku": "A97280F/3",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F3/p_img/A97280F_3-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777896185407-59py5zzhy69.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480549500-9rcomgk4g7.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480536664-1frvvlpoegx.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 29,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "4a13aa90-8e79-43c3-8d3c-3e9523945061",
+        "name": "LARBRECK 1",
+        "url_key": "black-round-fullrim-acetate-eyeglasses",
+        "slug": "glasses/larbreck-black-round-fullrim-acetate-eyeglasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/1",
+        "origin_sku": "A97280F/1",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F1/p_img/A97280F_1-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F1/swatch_image/A97280F_1-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480520646-4pa02s78f6i.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480531875-7blcam4hnje.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 36,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "797cd150-9176-452f-8254-0781f6897662",
+        "name": "LARBRECK 2",
+        "url_key": "matte-black-round-fullrim-acetate-glasses",
+        "slug": "glasses/larbreck-matte-black-round-fullrim-acetate-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/2",
+        "origin_sku": "A97280F/2",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F2/p_img/A97280F_2-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F2/swatch_image/A97280F_2-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480528792-x6xxjo5ouyo.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480536946-fs2vcasctzk.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 30,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "9cdccef0-1aa8-484f-8b86-720ed20996bf",
+        "name": "LARBRECK 5",
+        "url_key": "crystal-grey-round-fullrim-glasses",
+        "slug": "glasses/larbreck-crystal-grey-round-fullrim-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/5",
+        "origin_sku": "A97280F/5",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F5/p_img/A97280F_5-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F5/swatch_image/A97280F_5-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480561695-e3mfbwkjokm.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480555348-rv1g2yldwnn.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 26,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "e8c153e8-0fd3-47d5-afdb-b3d29b63915e",
+        "name": "LARBRECK 6",
+        "url_key": "crystal-clear-round-fullrim-acetate-glasses",
+        "slug": "glasses/larbreck-crystal-clear-round-fullrim-acetate-glasses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "A97280F/6",
+        "origin_sku": "A97280F/6",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F6/p_img/A97280F_6-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A97280F/A97280F6/swatch_image/A97280F_6-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480563991-n17u44gxhq.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778480569987-m7zl8sbt0aj.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 33,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "1a8ad98b-4ada-4f73-9c78-cd6a01f1a6b8",
+    "url_key": "hartley",
+    "active_sku": null,
+    "variants": [
+      {
+        "id": "0a3a29e4-19f8-41b5-b74e-a8a317d6524b",
+        "name": "HARTLEY 6",
+        "url_key": "pale-silver-flattop-rectangular-glasses",
+        "slug": "glasses/hartley-pale-silver-flattop-rectangular-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TS5810F/6",
+        "origin_sku": "TS5810F/6",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F6/M_img/TS5810F_6-1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F6/M_img/TS5810F_6-11.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F6/P_img/TS5810F_6-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1774423921478-tgqxf3kmyyt.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "ACTICS"
+        },
+        "stock_qty": 10,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "69e3980b-a18c-4a61-8f42-32d97edae2d4",
+        "name": "HARTLEY 5",
+        "url_key": "translucent-brown-rectangular-flattop-glasses",
+        "slug": "glasses/hartley-translucent-brown-rectangular-flattop-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TS5810F/5",
+        "origin_sku": "TS5810F/5",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F5/Swatch_image/TS5810F_5-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F5/M_img/TS5810F_5-1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F5/M_img/TS5810F_5-11.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F5/P_img/TS5810F_5-1.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "ACTICS"
+        },
+        "stock_qty": 15,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "48e13cfc-c8d3-4672-9f76-466eeee2d31c",
+        "name": "HARTLEY 2",
+        "url_key": "matte-black-sports-rectangular-flattop-glasses",
+        "slug": "glasses/hartley-matte-black-sports-rectangular-flattop-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TS5810F/2",
+        "origin_sku": "TS5810F/2",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F2/M_img/TS5810F_2-11.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F2/P_img/TS5810F_2-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1774423773206-u0hmlne3k3.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F2/M_img/TS5810F_2-1.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "ACTICS"
+        },
+        "stock_qty": 15,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "dfe95873-40a2-47ed-bc96-b95f3b0ac37c",
+        "name": "HARTLEY 4",
+        "url_key": "matte-blue-rectangular-flattop-glasses",
+        "slug": "glasses/hartley-matte-blue-rectangular-flattop-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TS5810F/4",
+        "origin_sku": "TS5810F/4",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F4/M_img/TS5810F_4-1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F4/M_img/TS5810F_4-11.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F4/P_img/TS5810F_4-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TS5810F/TS5810F4/Swatch_image/TS5810F_4-1.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "ACTICS"
+        },
+        "stock_qty": 12,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "a7b8fd13-6010-40ab-b166-1bfea4592cb0",
+    "url_key": "scholes",
+    "active_sku": null,
+    "variants": [
+      {
+        "id": "8e9bd6a2-1ca4-48c4-b1c9-95790516ee7c",
+        "name": "SCHOLES 1",
+        "url_key": "black-magnetic-clip-on-glasses-green-yellow",
+        "slug": "glasses/scholes-black-magnetic-clip-on-glasses-green-yellow",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "TL3006F/1",
+        "origin_sku": "TL3006F/1",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636000967-jjfei0fy2y7.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F1/swatch_image/TL3006F_1-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636008062-t37w94xh4io.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F1/p_img/TL3006F_1-1.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 13,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "cc6179bc-e973-4e9e-98ee-154dcaab2e54",
+        "name": "SCHOLES 5",
+        "url_key": "hexagonal-crystal-brown-frame-with-green-yellow-clip-on",
+        "slug": "glasses/scholes-hexagonal-crystal-brown-frame-with-green-yellow-clip-on",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "TL3006F/5",
+        "origin_sku": "TL3006F/5",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636182520-ca24c15rrc.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636187172-sohnwygqvml.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F5/p_img/TL3006F_5-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F5/swatch_image/TL3006F_5-1.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 15,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "d7df40da-0e49-432f-abc3-41ce32c46dc0",
+        "name": "SCHOLES 4",
+        "url_key": "geometric-crystal-clear-frame-with-green-yellow-clip-on",
+        "slug": "glasses/scholes-geometric-crystal-clear-frame-with-green-yellow-clip-on",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "TL3006F/4",
+        "origin_sku": "TL3006F/4",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636143187-pcm8qr81mz.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636137832-fhsqlxxpyq7.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F4/swatch_image/TL3006F_4-1.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F4/p_img/TL3006F_4-1.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 11,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "7db5334b-193f-49b6-b2f8-2a9cc763034b",
+        "name": "SCHOLES 3",
+        "url_key": "tortoise-clip-on-glasses-with-green-yellow-lenses",
+        "slug": "glasses/scholes-tortoise-clip-on-glasses-with-green-yellow-lenses",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "TL3006F/3",
+        "origin_sku": "TL3006F/3",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636093384-1mpikbnj8z7.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636089362-ysjda5fg3x.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776244030356-j6vreiqabui.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F3/swatch_image/TL3006F_3-1.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 4,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "8a39dbe6-d8c3-4648-be43-cbf86ee565a0",
+        "name": "SCHOLES 2",
+        "url_key": "crystal-steel-blue-magnetic-clip-on-glasses-yellow-grey",
+        "slug": "glasses/scholes-crystal-steel-blue-magnetic-clip-on-glasses-yellow-grey",
+        "price": "59.99",
+        "special_price": null,
+        "sku": "TL3006F/2",
+        "origin_sku": "TL3006F/2",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636053753-4d68ygm2864.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1777636046178-vasuzcz8ex.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F2/p_img/TL3006F_2-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL3006F/TL3006F2/swatch_image/TL3006F_2-1.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 13,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "0f217485-a139-4246-a68c-b003199023ff",
+    "url_key": "sabden",
+    "active_sku": "TL1137F/2",
+    "variants": [
+      {
+        "id": "5dd7eb7a-0059-4675-8b64-20e4528d4ae1",
+        "name": "SABDEN 1",
+        "url_key": "black-square-full-rim-acetate-glasses",
+        "slug": "glasses/sabden-black-square-full-rim-acetate-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TL1137F/1",
+        "origin_sku": "TL1137F/1",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL1137F/TL1137F1/P_img/1137F_1-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776930340457-n0t4sewwcho.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/pessac/pessac-4/1774340268366-3lvvc7zkxb4.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776930341939-dcy5o2n94jo.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 15,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "56020a86-430e-43f1-9df0-1e2cf70333ae",
+        "name": "SABDEN 4",
+        "url_key": "steel-grey-square-full-rim-acetate-glasses",
+        "slug": "glasses/sabden-steel-grey-square-full-rim-acetate-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TL1137F/4",
+        "origin_sku": "TL1137F/4",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776930426480-fm0bfao68vl.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776930424694-ivwqj8j7goa.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1774340420781-zd0nkw8ov6.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL1137F/TL1137F4/P_img/1137F_4-1.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 20,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "94226c14-9069-4c28-8322-a0b6d032b189",
+        "name": "SABDEN 3",
+        "url_key": "crystal-fuscia-square-full-rim-glasses-for-women",
+        "slug": "glasses/sabden-crystal-fuscia-square-full-rim-glasses-for-women",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TL1137F/3",
+        "origin_sku": "TL1137F/3",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1778574665764-5g955ezv5we.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/troyes/troyes-1/1774340390362-vmr3a993mbs.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL1137F/TL1137F3/P_img/1137F_3-1.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 19,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "38ab26a7-d959-4645-9b75-c61aa05f68f8",
+        "name": "SABDEN 2",
+        "url_key": "wren-abstract-square-fullrim-acetate-glasses",
+        "slug": "glasses/sabden-wren-abstract-square-fullrim-acetate-glasses",
+        "price": "69.99",
+        "special_price": null,
+        "sku": "TL1137F/2",
+        "origin_sku": "TL1137F/2",
+        "images": [
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776930486887-9aghpdzv997.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/specscart_2_1/catalog/variant-images/1776930485575-s82pyq6qimj.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/catalog/variant-images/1774340839763-kywcul36h7.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/TL1137F/TL1137F2/P_img/1137F_2-1.webp",
+            "type": "p_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "TOM ARCHER"
+        },
+        "stock_qty": 17,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  },
+  {
+    "id": "7b95d3b7-d3aa-402e-a5c2-a13ab9973e5c",
+    "url_key": "perpignan",
+    "active_sku": "A9141F/1",
+    "variants": [
+      {
+        "id": "2e3ffe2b-3c0f-471e-8b3b-69134594de2e",
+        "name": "PERPIGNAN 1",
+        "url_key": "black-cateye-fullrim-acetate-glasses",
+        "slug": "glasses/perpignan-black-cateye-fullrim-acetate-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A9141F/1",
+        "origin_sku": "A9141F/1",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F1/M_img/A9141F_1-W1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F1/P_img/A9141F_1-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/toulouse/toulouse-5/1774257403842-lf7stgjxer.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "MARC FABIEN"
+        },
+        "stock_qty": 17,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "49ac2566-a7df-44a0-b382-6f3fabae977c",
+        "name": "PERPIGNAN 2",
+        "url_key": "crystal-grey-cateye-fullrim-acetate-glasses",
+        "slug": "glasses/perpignan-crystal-grey-cateye-fullrim-acetate-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A9141F/2",
+        "origin_sku": "A9141F/2",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F2/M_img/A9141F_2-W1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F2/P_img/A9141F_2-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/adam/adam-1/1774257432958-wt0305cptrp.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "MARC FABIEN"
+        },
+        "stock_qty": 19,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "796d3f4f-50fb-468f-bd2a-54861df27741",
+        "name": "PERPIGNAN 3",
+        "url_key": "purple-gold-mosaic-cateye-fullrim-glasses",
+        "slug": "glasses/perpignan-purple-gold-mosaic-cateye-fullrim-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A9141F/3",
+        "origin_sku": "A9141F/3",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F3/P_img/A9141F_3-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/brierfield/brierfield-5/1774257444120-pua09cyap4.webp",
+            "type": "swatch_image"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F3/M_img/A9141F_3-W1.webp",
+            "type": "m_img"
+          }
+        ],
+        "variant_info": {
+          "brand": "MARC FABIEN"
+        },
+        "stock_qty": 16,
+        "stock_availability": true,
+        "isHomeTrial": false
+      },
+      {
+        "id": "d0a988aa-f351-41c5-8ef0-79aeb7918a2b",
+        "name": "PERPIGNAN 4",
+        "url_key": "grey-abstract-cateye-fullrim-glasses",
+        "slug": "glasses/perpignan-grey-abstract-cateye-fullrim-glasses",
+        "price": "79.99",
+        "special_price": null,
+        "sku": "A9141F/4",
+        "origin_sku": "A9141F/4",
+        "images": [
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F4/M_img/A9141F_4-W1.webp",
+            "type": "m_img"
+          },
+          {
+            "img_path": "https://images.specscart.co.uk/products/A9141F/A9141F4/P_img/A9141F_4-1.webp",
+            "type": "p_img"
+          },
+          {
+            "img_path": "https://specscart-prod-app-data.s3.eu-west-2.amazonaws.com/products/niort/niort-3/1774257452499-zxbh2w0zsc.webp",
+            "type": "swatch_image"
+          }
+        ],
+        "variant_info": {
+          "brand": "MARC FABIEN"
+        },
+        "stock_qty": 16,
+        "stock_availability": true,
+        "isHomeTrial": false
+      }
+    ]
+  }
+]
